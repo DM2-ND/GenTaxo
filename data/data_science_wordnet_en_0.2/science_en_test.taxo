@@ -1,0 +1,96 @@
+0	histology	microscopic anatomy	hypernymy
+1	matrix algebra	algebra	hypernymy
+2	freudian psychology	psychotherapy	hypernymy
+3	sociobiology	biology	hypernymy
+4	osteology	anatomy	hypernymy
+5	powder metallurgy	metallurgy	hypernymy
+6	crystallography	physics	hypernymy
+7	nosology	medicine	hypernymy
+8	electron optics	electronics	hypernymy
+9	microbiology	biology	hypernymy
+10	pharmacogenetics	genetics	hypernymy
+11	anesthesiology	medicine	hypernymy
+12	protozoology	zoology	hypernymy
+13	biomedical science	life science	hypernymy
+14	bacteriology	medicine	hypernymy
+15	selenology	astronomy	hypernymy
+16	natural history	science	hypernymy
+17	physiological psychology	psychology	hypernymy
+18	magnetohydrodynamics	hydrodynamics	hypernymy
+19	herpetology	zoology	hypernymy
+20	problem solving	cognitive psychology	hypernymy
+21	integral calculus	calculus	hypernymy
+22	radiology	medical science	hypernymy
+23	architectonics	science	hypernymy
+24	phrenology	craniology	hypernymy
+25	differential calculus	calculus	hypernymy
+26	enzymology	biochemistry	hypernymy
+27	veterinary medicine	medicine	hypernymy
+28	paleoethnography	archeology	hypernymy
+29	comparative anatomy	anatomy	hypernymy
+30	rhinolaryngology	medicine	hypernymy
+31	cosmetic dentistry	dentistry	hypernymy
+32	sumerology	archeology	hypernymy
+33	home economics	social science	hypernymy
+34	assyriology	archeology	hypernymy
+35	positive correlation	correlation	hypernymy
+36	developmental psychology	psychology	hypernymy
+37	surgery	medical science	hypernymy
+38	cryptanalysis	science	hypernymy
+39	aeronautics	physics	hypernymy
+40	paleoclimatology	archeology	hypernymy
+41	emergency medicine	medicine	hypernymy
+42	brain science	neuroscience	hypernymy
+43	avionics	aeronautics	hypernymy
+44	thermionics	electronics	hypernymy
+45	seismology	geophysics	hypernymy
+46	plane geometry	geometry	hypernymy
+47	periodontics	dentistry	hypernymy
+48	lexical semantics	semantics	hypernymy
+49	celestial mechanics	astronomy	hypernymy
+50	oncology	medicine	hypernymy
+51	economic geography	geography	hypernymy
+52	jungian psychology	psychotherapy	hypernymy
+53	decomposition	vector algebra	hypernymy
+54	psychopharmacology	pharmacology	hypernymy
+55	prescriptive linguistics	linguistics	hypernymy
+56	dental anatomy	gross anatomy	hypernymy
+57	orthoepy	phonology	hypernymy
+58	geography	geographical science	synonym
+59	internal medicine	general medicine	synonym
+60	natural language processing	NLP	synonym
+61	nosology	study of disorders	synonym
+62	nosology	study of illnesses	synonym
+63	nosology	study of diseases	synonym
+64	demography	demographics	synonym
+65	hydrology	hydrologic science	synonym
+66	solar physics	Space physics	synonym
+67	geodesy	geodetics	synonym
+68	ethology	biology of behaviour	synonym
+69	linguistics	linguistic	synonym
+70	sociolinguistics	socio linguistics	synonym
+71	limnology	freshwater science	synonym
+72	paleoanthropology	palaeoanthropology	synonym
+73	ethnology	Ethnology	synonym
+74	physical geography	physiography	synonym
+75	hyperbolic geometry	Bolyai-Lobachevskian geometry	synonym
+76	home economics	domestic science	synonym
+77	home economics	family and consumer sciences	synonym
+78	surgery	surgical procedure	synonym
+79	surgery	clinic	synonym
+80	aeronautics	Aeronautical engineering	synonym
+81	paleoclimatology	palaeoclimatology	synonym
+82	emergency medicine	accident and emergency medicine	synonym
+83	memory	Memory	synonym
+84	lexical semantics	lexicosemantics	synonym
+85	neonatology	neonatal medicine	synonym
+86	neonatology	neonatal	synonym
+87	sports medicine	sport and exercise medicine	synonym
+88	decomposition	rotting	synonym
+89	decomposition	factoring	synonym
+90	decomposition	decay	synonym
+91	quantum physics	modern physics	synonym
+92	radiology	radioscopy	synonym
+93	therapeutics	remedy	synonym
+94	nonparametric statistics	nonparametric statistic	synonym
+95	orthoepy	pronunciation	synonym

@@ -1,0 +1,43 @@
+0	cost of pollution	environmental policy	hypernymy
+1	environmental tax	economic instrument for the environment	hypernymy
+2	environmental education	environmental policy	hypernymy
+3	biological standard	environmental standard	hypernymy
+4	exhaustion of resources	exploitation of resources	hypernymy
+5	conservation of resources	environmental protection	hypernymy
+6	fight against insects	environmental protection	hypernymy
+7	seismic monitoring	protection of plant life	hypernymy
+8	polluter pays principle	pollution control measures	hypernymy
+9	pollution control	pollution control measures	hypernymy
+10	degree of pollution	pollution control	hypernymy
+11	arid zone	geophysical environment	hypernymy
+12	lake	geophysical environment	hypernymy
+13	renewable resources	natural resources	hypernymy
+14	underwater mineral resources	natural resources	hypernymy
+15	inshore grounds	sea-bed	hypernymy
+16	groundwater	water	hypernymy
+17	biotope	ecosystem	hypernymy
+18	terrestrial ecosystem	ecosystem	hypernymy
+19	whale	marine mammal	hypernymy
+20	deforestation	degradation of the environment	hypernymy
+21	disaster area	degradation of the environment	hypernymy
+22	man-made disaster	degradation of the environment	hypernymy
+23	drought	natural disaster	hypernymy
+24	sensitive area	degradation of the environment	hypernymy
+25	carcinogenic substance	dangerous substance	hypernymy
+26	toxic substance	dangerous substance	hypernymy
+27	greenhouse gas	atmospheric pollutant	hypernymy
+28	metal pollution	pollution	hypernymy
+29	oil pollution	pollution	hypernymy
+30	pollution from agricultural sources	pollution	hypernymy
+31	thermal pollution	pollution	hypernymy
+32	pollution of waterways	water pollution	hypernymy
+33	hazardous waste	waste	hypernymy
+34	industrial waste	waste	hypernymy
+35	non-recoverable waste	waste	hypernymy
+36	unauthorised dumping	waste	hypernymy
+37	biotope	habitat	synonym
+38	deforestation	clearance	synonym
+39	greenhouse gas	GHG	synonym
+40	groundwater	ground water	synonym
+41	groundwater	underground water	synonym
+42	renewable resources	renewable resource	synonym

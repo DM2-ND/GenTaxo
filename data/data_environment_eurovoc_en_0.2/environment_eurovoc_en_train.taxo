@@ -1,0 +1,263 @@
+0	adaptation to climate change	climate change policy	hypernymy
+1	clean development mechanism	climate change policy	hypernymy
+2	emission allowance	climate change policy	hypernymy
+3	EU emission allowance	emission allowance	hypernymy
+4	emission trading	climate change policy	hypernymy
+5	EU Emissions Trading Scheme	emission trading	hypernymy
+6	joint implementation	climate change policy	hypernymy
+7	reduction of gas emissions	climate change policy	hypernymy
+8	area management	environmental policy	hypernymy
+9	economic instrument for the environment	environmental policy	hypernymy
+10	deposit on a polluting product	economic instrument for the environment	hypernymy
+11	tradeable emission permit	economic instrument for the environment	hypernymy
+12	environmental economics	environmental policy	hypernymy
+13	environmental impact	environmental policy	hypernymy
+14	environmental indicator	environmental policy	hypernymy
+15	environmental law	environmental policy	hypernymy
+16	environmental liability	environmental law	hypernymy
+17	environmental standard	environmental law	hypernymy
+18	environmental monitoring	environmental policy	hypernymy
+19	environmental research	environmental policy	hypernymy
+20	environmental statistics	environmental research	hypernymy
+21	EU environmental policy	environmental policy	hypernymy
+22	fight against wastage	environmental policy	hypernymy
+23	management of resources	environmental policy	hypernymy
+24	evaluation of resources	management of resources	hypernymy
+25	exploitation of resources	management of resources	hypernymy
+26	exploitation of the sea-bed	exploitation of resources	hypernymy
+27	exploitation of the seas	exploitation of resources	hypernymy
+28	over-exploitation of resources	exploitation of resources	hypernymy
+29	replacement of resources	management of resources	hypernymy
+30	quality of the environment	environmental policy	hypernymy
+31	risk prevention	environmental policy	hypernymy
+32	industrial hazard	risk prevention	hypernymy
+33	natural hazard	risk prevention	hypernymy
+34	coastal protection	environmental protection	hypernymy
+35	countryside conservation	environmental protection	hypernymy
+36	fire protection	environmental protection	hypernymy
+37	protected area	environmental protection	hypernymy
+38	national city park	environmental protection	hypernymy
+39	nature reserve	protected area	hypernymy
+40	protection of animal life	environmental protection	hypernymy
+41	hunting regulations	protection of animal life	hypernymy
+42	protection of animals	protection of animal life	hypernymy
+43	protection of plant life	environmental protection	hypernymy
+44	water protection	protection of plant life	hypernymy
+45	decontamination	pollution control measures	hypernymy
+46	noise protection	pollution control measures	hypernymy
+47	non-polluting vehicle	pollution control measures	hypernymy
+48	prevention of pollution	pollution control measures	hypernymy
+49	anti-pollution device	prevention of pollution	hypernymy
+50	biodegradability	prevention of pollution	hypernymy
+51	storage of waste	waste management	hypernymy
+52	underground storage of waste	storage of waste	hypernymy
+53	waste disposal	waste management	hypernymy
+54	dumping of waste	waste disposal	hypernymy
+55	waste incineration	waste disposal	hypernymy
+56	waste recycling	waste management	hypernymy
+57	use of water	water management	hypernymy
+58	atmospheric conditions	climate	hypernymy
+59	climatic zone	climate	hypernymy
+60	equatorial zone	climatic zone	hypernymy
+61	frigid zone	climatic zone	hypernymy
+62	humid zone	climatic zone	hypernymy
+63	subtropical zone	climatic zone	hypernymy
+64	temperate zone	climatic zone	hypernymy
+65	desert	geophysical environment	hypernymy
+66	estuary	geophysical environment	hypernymy
+67	island	geophysical environment	hypernymy
+68	mountain	geophysical environment	hypernymy
+69	ocean	geophysical environment	hypernymy
+70	Pacific Ocean	ocean	hypernymy
+71	plain	geophysical environment	hypernymy
+72	polar region	geophysical environment	hypernymy
+73	Arctic	polar region	hypernymy
+74	sea	geophysical environment	hypernymy
+75	Caspian Sea	sea	hypernymy
+76	Mediterranean Sea	sea	hypernymy
+77	watercourse	geophysical environment	hypernymy
+78	animal resources	natural resources	hypernymy
+79	energy resources	natural resources	hypernymy
+80	mineral resources	natural resources	hypernymy
+81	plant resources	natural resources	hypernymy
+82	resources of the sea	natural resources	hypernymy
+83	soil resources	natural resources	hypernymy
+84	water resources	natural resources	hypernymy
+85	aquatic environment	physical environment	hypernymy
+86	marine environment	aquatic environment	hypernymy
+87	littoral	marine environment	hypernymy
+88	sea-bed	marine environment	hypernymy
+89	continental shelf	sea-bed	hypernymy
+90	water	aquatic environment	hypernymy
+91	bathing water	water	hypernymy
+92	drinking water	water	hypernymy
+93	freshwater	water	hypernymy
+94	ice	water	hypernymy
+95	percolation water	water	hypernymy
+96	stagnant water	water	hypernymy
+97	surface water	water	hypernymy
+98	atmosphere	physical environment	hypernymy
+99	ozone	atmosphere	hypernymy
+100	biosphere	physical environment	hypernymy
+101	biodiversity	biosphere	hypernymy
+102	ecological balance	physical environment	hypernymy
+103	ecosystem	physical environment	hypernymy
+104	marine ecosystem	ecosystem	hypernymy
+105	animal life	wildlife	hypernymy
+106	bird	animal life	hypernymy
+107	insect	animal life	hypernymy
+108	reptile	animal life	hypernymy
+109	wild mammal	animal life	hypernymy
+110	bear	wild mammal	hypernymy
+111	lynx	wild mammal	hypernymy
+112	marine mammal	wild mammal	hypernymy
+113	dolphin	marine mammal	hypernymy
+114	seal	marine mammal	hypernymy
+115	marsupial	wild mammal	hypernymy
+116	monkey	wild mammal	hypernymy
+117	rodent	wild mammal	hypernymy
+118	wolf	wild mammal	hypernymy
+119	marine life	wildlife	hypernymy
+120	plant life	wildlife	hypernymy
+121	harmful plant	plant life	hypernymy
+122	protected species	wildlife	hypernymy
+123	acid rain	degradation of the environment	hypernymy
+124	climate change	degradation of the environment	hypernymy
+125	global warming	climate change	hypernymy
+126	corrosion	degradation of the environment	hypernymy
+127	defoliation	degradation of the environment	hypernymy
+128	desertification	degradation of the environment	hypernymy
+129	destruction of crops	degradation of the environment	hypernymy
+130	fire	degradation of the environment	hypernymy
+131	natural disaster	degradation of the environment	hypernymy
+132	agricultural disaster	natural disaster	hypernymy
+133	bad weather	natural disaster	hypernymy
+134	cyclone	natural disaster	hypernymy
+135	earthquake	natural disaster	hypernymy
+136	erosion	natural disaster	hypernymy
+137	flood	natural disaster	hypernymy
+138	volcanic eruption	natural disaster	hypernymy
+139	polluted area	degradation of the environment	hypernymy
+140	dangerous substance	nuisance	hypernymy
+141	inflammable product	dangerous substance	hypernymy
+142	electromagnetic interference	nuisance	hypernymy
+143	non-ionising radiation	electromagnetic interference	hypernymy
+144	mechanical vibration	nuisance	hypernymy
+145	noise	nuisance	hypernymy
+146	noise level	noise	hypernymy
+147	pollutant	nuisance	hypernymy
+148	atmospheric pollutant	pollutant	hypernymy
+149	combustion gases	atmospheric pollutant	hypernymy
+150	dust	atmospheric pollutant	hypernymy
+151	stratospheric pollutant	atmospheric pollutant	hypernymy
+152	pesticide residue	pollutant	hypernymy
+153	water pollutant	pollutant	hypernymy
+154	thermal discharge	nuisance	hypernymy
+155	biodiversity	pollution	hypernymy
+156	acidification	pollution	hypernymy
+157	atmospheric pollution	pollution	hypernymy
+158	greenhouse effect	atmospheric pollution	hypernymy
+159	chemical pollution	pollution	hypernymy
+160	coastal pollution	pollution	hypernymy
+161	food contamination	pollution	hypernymy
+162	industrial pollution	pollution	hypernymy
+163	local pollution	pollution	hypernymy
+164	motor vehicle pollution	pollution	hypernymy
+165	noise pollution	pollution	hypernymy
+166	organic pollution	pollution	hypernymy
+167	pollution from ships	pollution	hypernymy
+168	radioactive pollution	pollution	hypernymy
+169	soil pollution	pollution	hypernymy
+170	stratospheric pollution	pollution	hypernymy
+171	water pollution	pollution	hypernymy
+172	eutrophication	water pollution	hypernymy
+173	marine pollution	water pollution	hypernymy
+174	pollution from land-based sources	marine pollution	hypernymy
+175	agricultural waste	waste	hypernymy
+176	chemical waste	waste	hypernymy
+177	domestic waste	waste	hypernymy
+178	electronic waste	waste	hypernymy
+179	export of waste	waste	hypernymy
+180	hospital waste	waste	hypernymy
+181	metal waste	waste	hypernymy
+182	radioactive waste	waste	hypernymy
+183	radioactive effluent	radioactive waste	hypernymy
+184	sewage sludge	waste	hypernymy
+185	used oil	waste	hypernymy
+186	wastewater	waste	hypernymy
+187	climate change policy	environment	hypernymy
+188	environmental policy	environment	hypernymy
+189	environmental protection	environment	hypernymy
+190	pollution control measures	environment	hypernymy
+191	waste management	environment	hypernymy
+192	water management	environment	hypernymy
+193	climate	environment	hypernymy
+194	geophysical environment	environment	hypernymy
+195	natural resources	environment	hypernymy
+196	physical environment	environment	hypernymy
+197	wildlife	environment	hypernymy
+198	degradation of the environment	environment	hypernymy
+199	nuisance	environment	hypernymy
+200	pollution	environment	hypernymy
+201	waste	environment	hypernymy
+202	atmosphere	air	synonym
+203	atmosphere	standard atmosphere	synonym
+204	atmosphere	atm	synonym
+205	biosphere	Biosphere 1	synonym
+206	climate	local climate	synonym
+207	climate change	climatic variation	synonym
+208	ecosystem	ecological system	synonym
+209	electromagnetic interference	RF interference	synonym
+210	electromagnetic interference	radio-frequency interference	synonym
+211	electromagnetic interference	EM interference	synonym
+212	electromagnetic interference	EMI	synonym
+213	electromagnetic interference	RFI	synonym
+214	environment	environmental sculpture	synonym
+215	environmental law	Environmental Law	synonym
+216	environmental policy	Environment policy	synonym
+217	marine pollution	water portal	synonym
+218	noise	noise music	synonym
+219	noise	acoustic noise	synonym
+220	noise	randomness	synonym
+221	noise	economic noise	synonym
+222	pollutant	pollutants, environmental	synonym
+223	pollutant	environmental pollutant	synonym
+224	pollutant	environmental pollutants	synonym
+225	protected area	protected zone	synonym
+226	protected area	conservation zone	synonym
+227	protected area	Protected area	synonym
+228	protected area	conservation area	synonym
+229	radioactive waste	radioactive hazardous waste	synonym
+230	radioactive waste	nuclear waste	synonym
+231	sea	Sea	synonym
+232	waste	rubbish	synonym
+233	waste	thriftlessness	synonym
+234	waste	garbage	synonym
+235	waste	barren	synonym
+236	waste	trash	synonym
+237	water	water system	synonym
+238	water	steam	synonym
+239	water	Water purified	synonym
+240	water	hydrogen oxide	synonym
+241	water	pure water	synonym
+242	water	oxidane	synonym
+243	water	dihydrogen oxide	synonym
+244	water	H2O	synonym
+245	water	water molecule	synonym
+246	water	hydrogen hydroxide	synonym
+247	water	aqua	synonym
+248	water	body of water	synonym
+249	water	H two O	synonym
+250	water	dihydridooxygen	synonym
+251	water	Wasser	synonym
+252	water	hydro	synonym
+253	water	sterile water	synonym
+254	water	purified water	synonym
+255	water	dihydrogen monoxide	synonym
+256	water management	water politics	synonym
+257	water management	water resource management	synonym
+258	natural resources	natural resource	synonym
+259	nuisance	pain	synonym
+260	plant life	plant	synonym
+261	pollution	befoulment	synonym
+262	pollution	contamination	synonym

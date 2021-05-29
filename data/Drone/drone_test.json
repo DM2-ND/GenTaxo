@@ -1,0 +1,52 @@
+{"entity": "air craft component", "parent": ["energy reload system", "ground station", "ground station component", "hardware component", "launch system"], "child": ["antenna", "inertial navigation system", "fuselage", "data storage", "energy storage component", "lift generator system", "flight controller", "data processing board", "payload", "air craft", "engine", "sensor", "communication system", "landing system"]}
+{"entity": "apm2.6", "parent": ["sensor"], "child": []}
+{"entity": "battery alarm", "parent": ["obstacle alarm", "alarm"], "child": []}
+{"entity": "bluetooth module", "parent": ["ground station communication system"], "child": []}
+{"entity": "catapult", "parent": ["launch system"], "child": []}
+{"entity": "command", "parent": ["mission element"], "child": ["inferred command", "has command line", "has planned execution time", "flight plan command", "has planned flight time", "has command id", "has execution time", "has next command", "has flight time"]}
+{"entity": "constrains", "parent": ["parameter", "constraint"], "child": []}
+{"entity": "data processing system", "parent": ["data storage system", "ground station communication system", "ground station antenna", "mission commander station", "remote pilot console", "payload operator station", "ground station component"], "child": []}
+{"entity": "dji", "parent": ["manufacturer"], "child": []}
+{"entity": "energy reload system", "parent": ["ground station", "hardware component", "ground station component", "launch system"], "child": ["refueling system", "air craft component", "air craft", "charging station"]}
+{"entity": "fire fly6 vtol frame", "parent": ["frame kit"], "child": []}
+{"entity": "flight plan command", "parent": ["command"], "child": ["auxiliary command", "last command", "navigation command", "first command"]}
+{"entity": "formation", "parent": ["flight mode"], "child": []}
+{"entity": "gcs antenna", "parent": ["ground station antenna"], "child": []}
+{"entity": "ground station communication system", "parent": ["mission commander station", "remote pilot console", "payload operator station", "ground station component"], "child": ["data storage system", "data processing system", "bluetooth module", "ground station antenna", "wifi module", "has ground station mac", "has ground station ip"]}
+{"entity": "hardware component", "parent": ["component"], "child": ["air craft component", "ground station component", "launch system", "ground station", "air craft", "energy reload system", "has weight"]}
+{"entity": "has battery", "parent": ["battery", "is battery of", "product model", "has direct part"], "child": []}
+{"entity": "has command line", "parent": ["command"], "child": []}
+{"entity": "has data storage", "parent": ["data storage", "is data storage of", "product model", "has direct part"], "child": []}
+{"entity": "has element", "parent": ["mission", "mission element"], "child": []}
+{"entity": "has flight controller", "parent": ["has direct part", "is flight controller of", "product model", "flight controller"], "child": []}
+{"entity": "has ground station ip", "parent": ["ground station communication system"], "child": []}
+{"entity": "has landing system", "parent": ["is landing system of", "product model", "landing system", "has direct part"], "child": []}
+{"entity": "has measurement z value", "parent": ["parameter"], "child": []}
+{"entity": "has next command", "parent": ["command"], "child": []}
+{"entity": "has parameter", "parent": ["parameter", "feature", "component"], "child": []}
+{"entity": "has product id", "parent": ["product model"], "child": []}
+{"entity": "has weight", "parent": ["hardware component", "product model"], "child": []}
+{"entity": "hobby wing x rotor10 a", "parent": ["speed controller"], "child": []}
+{"entity": "inferred command", "parent": ["command"], "child": ["auxiliary command", "inferred velocity command", "inferred way point"]}
+{"entity": "is battery of", "parent": ["battery", "is direct part of", "product model"], "child": ["has battery"]}
+{"entity": "is direct part of", "parent": ["component", "is part of", "component"], "child": ["is data processing board", "is refueling system of", "is antenna of", "is charging station of", "is landing system of", "is ground station of", "is launch system of", "is sensor of", "is wing of", "is fuselage of", "is fuel tank of", "is inertial navigation system of", "is electrical engine of", "is rotor of", "is data storage of", "is flight controller of", "is battery of", "is combustion engine of", "is payload of"]}
+{"entity": "is ground station of", "parent": ["ground station", "is direct part of", "product model"], "child": ["has ground station"]}
+{"entity": "is model of", "parent": ["drone", "product model"], "child": []}
+{"entity": "is rotor of", "parent": ["rotor", "is direct part of", "product model"], "child": ["has rotor"]}
+{"entity": "is wing of", "parent": ["wing", "is direct part of", "product model"], "child": ["has wing"]}
+{"entity": "landing system", "parent": ["air craft component", "sensor", "lift generator system", "payload"], "child": ["antenna", "inertial navigation system", "fuselage", "data storage", "energy storage component", "landing gear", "is landing system of", "flight controller", "data processing board", "engine", "has landing system", "landing wheel", "landing leg", "communication system", "landing feet"]}
+{"entity": "linx motion2800m ah", "parent": ["battery"], "child": []}
+{"entity": "mission", "parent": [], "child": ["has element", "has mission authorization id", "current mission", "is stored in", "stores", "is mission of", "has mission", "has mission id", "flight"]}
+{"entity": "no fly zone alarm", "parent": ["alarm"], "child": []}
+{"entity": "obstacle detection sensor", "parent": ["sensor"], "child": []}
+{"entity": "parrot wifi antenna", "parent": ["antenna"], "child": []}
+{"entity": "pc station", "parent": ["mission commander station"], "child": []}
+{"entity": "predecessor of", "parent": ["product model", "product model"], "child": []}
+{"entity": "records", "parent": ["video", "video camera"], "child": ["is recorded by"]}
+{"entity": "rotor craft", "parent": ["category", "category"], "child": []}
+{"entity": "schedule", "parent": ["mission element"], "child": []}
+{"entity": "sono q-a1", "parent": ["sensor"], "child": []}
+{"entity": "storm8045", "parent": ["propeller"], "child": []}
+{"entity": "takeoff plan", "parent": ["partial flight plan"], "child": []}
+{"entity": "velocity1", "parent": ["inferred velocity command"], "child": []}
+{"entity": "weather report", "parent": ["mission element"], "child": []}

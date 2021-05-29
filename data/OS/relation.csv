@@ -1,0 +1,1041 @@
+,subject,object,relation
+0,Session Semantics,File Sharing,subClassOf
+1,Cache,File Systems-Efficiency and Performance,subClassOf
+2,Deadlocked Processes,Semaphores,subClassOf
+3,Message Slots,Distributed Systems-Communication Protocols,subClassOf
+4,Deadlock Detection Algorithm for several Instances of a Resource Type,Deadlock Detection,subClassOf
+5,Window 2000 Threads,Threads,subClassOf
+6,Exponential average,Shortest-Job-First Scheduling Algorithm/SJF Algorithm,subClassOf
+7,Logical Address Space,Memory Management-Overview,subClassOf
+8,File Operations,File Concept,subClassOf
+9,Data Striping,RAID Structure,subClassOf
+10,Permanent Revocation,Protection-Revocation of Access Rights,subClassOf
+11,Interrupt Vector Table,Interrupts,subClassOf
+12,Operating System level Security Measure,The Security Problem,subClassOf
+13,Compiler,Address Binding,subClassOf
+14,Wide Area Networks,Network Structure,subClassOf
+15,Wide Area Networks,Distributed Systems-Network Types,subClassOf
+16,Biometrics,User Authentication,subClassOf
+17,Control Statements,System Components,subClassOf
+18,Control Statements,O.S Services,subClassOf
+19,Burst Time,Shortest-Job-First Scheduling Algorithm/SJF Algorithm,subClassOf
+20,Burst Time,Multilevel Queue Scheduling,subClassOf
+21,Burst Time,Priority Scheduling Algorithm,subClassOf
+22,Burst Time,Multilevel Feedback Queue Scheduling,subClassOf
+23,Burst Time,"First-Come First-Served Scheduling/FCFS Algorithm",subClassOf
+24,File Rename,File Operations,subClassOf
+25,Trap Door,Program Threats,subClassOf
+26,Independent Processes,Cooperating Processes,subClassOf
+27,Pages,Paging Method,subClassOf
+28,Windows 2000,Case Studies,subClassOf
+29,Least Recently Used Page Replacement Algorithm,Page Replacement,subClassOf
+30,Local Area Network,Distributed Systems Structure Overview,subClassOf
+31,Local Area Network,Networking,subClassOf
+32,Local Area Network,Distributed Systems-Network Types,subClassOf
+33,Human level Security Measure,The Security Problem,subClassOf
+34,Distributed Systems,O.S,subClassOf
+35,Stream Head,Streams,subClassOf
+36,Swapping,Memory Management,subClassOf
+37,Optimal Page Replacement Algorithm,Page Replacement,subClassOf
+38,Distributed File Systems,File System Implementation,subClassOf
+39,Distributed File Systems,Distributed Systems,subClassOf
+40,Linux System-History,Linux System,subClassOf
+41,File System Protection,File-System Interface,subClassOf
+42,Disk Scheduling,Mass-Storage Structure,subClassOf
+43,I/O Bus,I/O Structure,subClassOf
+44,Denial of Service Attacks,System Threats,subClassOf
+45,Magnetic Disks,Storage Structure,subClassOf
+46,File Management System Calls,System Calls,subClassOf
+47,Indexed Access,File Access Methods,subClassOf
+48,ISO Protocol Stack,Distributed Systems-Communication Protocols,subClassOf
+49,Audit-trail Processing,Auditing and Logging,subClassOf
+50,Single-Coordinator Approach,Locking Protocol,subClassOf
+51,Concurrent execution,Event Ordering,subClassOf
+52,Reaquisition,Protection-Revocation of Access Rights,subClassOf
+53,Immutable-Shared-Files Semantics,File Sharing,subClassOf
+54,RAID level 0+1,RAID Levels,subClassOf
+55,Time-out Scheme,Distributed Systems-Robustness,subClassOf
+56,Tree-Structured Directories,Directory Structure,subClassOf
+57,Paging Method,Paging,subClassOf
+58,Worms,System Threats,subClassOf
+59,Data-out Register,I/O Registers,subClassOf
+60,Public Key,Authentication,subClassOf
+61,Exec System Call,Threading Issues,subClassOf
+62,Mirroring/Shadowing,RAID Structure,subClassOf
+63,CPU Scheduling Criteria,CPU Scheduling,subClassOf
+64,Process Scheduling,Processes,subClassOf
+65,Linked List,Free Space Management,subClassOf
+66,Performance Issues of Tertiary Storage,Tertiary Storage Devices,subClassOf
+67,Computation Migration,Distributed Operating System,subClassOf
+68,Solaris 2 Threads,Threads,subClassOf
+69,Resource Reservation,Real-Time Scheduling,subClassOf
+70,Batch Files,File Types,subClassOf
+71,Page Table Base Register,Frame Table,subClassOf
+72,Monitors,Process Synchronization,subClassOf
+73,I/O Systems,O.S,subClassOf
+74,Encryption,Cryptography,subClassOf
+75,Encryption,Encrypted Passwords,subClassOf
+76,Metropolitan Area Network,Distributed Systems Structure Overview,subClassOf
+77,Metropolitan Area Network,Networking,subClassOf
+78,Symmetric and Asymmetric Encryption Algorithm,Encryption,subClassOf
+79,Transaction Definition,Atomic Transactions,subClassOf
+80,Encrypted Passwords,User Authentication,subClassOf
+81,Signal,Signal Handling,subClassOf
+82,Stream Structure,Streams,subClassOf
+83,Deadlock Avoidance,Deadlocks,subClassOf
+84,Little's Formula,Queuing Model,subClassOf
+85,Virtual Address,Memory Management-Overview,subClassOf
+86,Interrupt Definition,Computer System Operation,subClassOf
+87,Conservative Timestamp Ordering Scheme,Concurrency Control,subClassOf
+88,Swap Maps,Swap-Space Management,subClassOf
+89,Archives,File Types,subClassOf
+90,Address Binding,Memory Management-Overview,subClassOf
+91,Batch Systems,Mainframe OS,subClassOf
+92,Target Thread,Thread Cancellation,subClassOf
+93,Memory Protection,Contiguous Memory Allocation,subClassOf
+94,Constant Angular Velocity,Disk Structure,subClassOf
+95,Signal Handling,Threading Issues,subClassOf
+96,Dining Philosophers Problem,Classic Problems of Synchronization,subClassOf
+97,I/O Operations,O.S Services,subClassOf
+98,Atomicity,Distributed Coordination,subClassOf
+99,Non-Blocking I/O,Application I/O Interface,subClassOf
+100,Best Fit Strategy,Memory Allocation,subClassOf
+101,Ready Queue,Swapping,subClassOf
+102,Dynamic Storage Allocation,Directory Implementation,subClassOf
+103,Routing Strategies,Distributed Systems-Communication,subClassOf
+104,Thread Overview,Threads,subClassOf
+105,Double Buffering,Kernel I/O Subsystem,subClassOf
+106,Double Buffering,Streams,subClassOf
+107,Double Buffering,Buffering,subClassOf
+108,System Design and Implementation,Operating System Structures,subClassOf
+109,Partition Control Block,File-System Implementation,subClassOf
+110,Indefinite Blocking/Starvation,Priority Scheduling Algorithm,subClassOf
+111,DMA Structure,I/O Structure,subClassOf
+112,Program Execution,O.S Services,subClassOf
+113,Hashed Page Tables,Page Table-Structure,subClassOf
+114,Single Level Directory,Directory Structure,subClassOf
+115,I/O to Hardware Operations,I/O Systems,subClassOf
+116,Example-Solaris 2,Process Scheduling Models,subClassOf
+117,RAID Level 5/Block-interleaved Distributed Parity,RAID Levels,subClassOf
+118,Cycle Stealing,Direct Memory Access,subClassOf
+119,inode,File-System Implementation,subClassOf
+120,Process State,Process Control Block,subClassOf
+121,Process State,Process Concept,subClassOf
+122,CPU Scheduling Algorithm Evaluation,CPU Scheduling,subClassOf
+123,Growing Phase,Locking Protocol,subClassOf
+124,Multiple Process Solutions,Solutions to Critical Section Problem,subClassOf
+125,Protection in Java 2,Language Based Protection,subClassOf
+126,Control Register,I/O Registers,subClassOf
+127,Cache Management,Storage Hierarchy,subClassOf
+128,Example-Windows 2000,Process Scheduling Models,subClassOf
+129,Paging Harware Support,Paging,subClassOf
+130,I/O Interlock,Virtual Memory Other Considerations,subClassOf
+131,Linear List,Directory Implementation,subClassOf
+132,THE,Historical Perspective,subClassOf
+133,Extensions to RAID,RAID Structure,subClassOf
+134,Host Name,Distributed Systems-Communication,subClassOf
+135,Conflicting Operations,Atomic Transactions,subClassOf
+136,Root Partition,File-System Implementation,subClassOf
+137,Early Systems,Historical Perspective,subClassOf
+138,Synchronous Writes,File Systems-Efficiency and Performance,subClassOf
+139,Load Time,Address Binding,subClassOf
+140,Time Stamp Based Protocols,Concurrent Atomic Transactions,subClassOf
+141,Log Structured File System,File System Implementation,subClassOf
+142,Shared Memory Model,Control Statements,subClassOf
+143,Priority Inversion,Real-Time Scheduling,subClassOf
+144,Error Correcting Code,Disk Formatting,subClassOf
+145,C-SCAN Scheduling,Disk Scheduling,subClassOf
+146,Scalability,Distributed Systems-Design Issues,subClassOf
+147,O.S Services,Operating System Structures,subClassOf
+148,Computation Speedup,Distributed Systems Structure Overview,subClassOf
+149,Transaction Abort,Atomic Transactions,subClassOf
+150,I/O Systems Overview,I/O Systems,subClassOf
+151,Keys,Protection-Revocation of Access Rights,subClassOf
+152,Keys,Lock-Key Mechanism,subClassOf
+153,Acyclic Path Directories,Directory Structure,subClassOf
+154,Job Queue,Scheduling Queues,subClassOf
+155,Solaris 2,O-S Examples,subClassOf
+156,Paging,Demand Paging,subClassOf
+157,Paging,Memory Management,subClassOf
+158,Heterogenous System,Multiple-Processor Scheduling,subClassOf
+159,First Fit Strategy,Memory Allocation,subClassOf
+160,Medium Access Control,Distributed Systems-Example:Networking,subClassOf
+161,Working Set Model,Thrashing,subClassOf
+162,Disk Scheduling Algorithm Selection,Disk Scheduling,subClassOf
+163,Safe State,Deadlock Avoidance Algorithms,subClassOf
+164,I/O Interrupts,I/O Structure,subClassOf
+165,Linux-Design Principles,Linux System,subClassOf
+166,Tunnel,Securing Systems and Facilities,subClassOf
+167,Segmentation,Memory Management,subClassOf
+168,Host Controller,Storage Structure,subClassOf
+169,Wait Semaphore Definition,Semaphores,subClassOf
+170,Allocation Methods,File System Implementation,subClassOf
+171,Main Memory Management,System Components,subClassOf
+172,Virtual Routing,Distributed Systems-Communication,subClassOf
+173,I/O Bursts,CPU-I/O Burst Cycle,subClassOf
+174,Characterizations of I/O Devices,Application I/O Interface,subClassOf
+175,CSMA/CD,Distributed Systems-Communication,subClassOf
+176,Software Objects,Domain of Protection,subClassOf
+177,Non-Preemptive Priority Scheduling,Priority Scheduling Algorithm,subClassOf
+178,The Security Problem,Security,subClassOf
+179,Logical Memory,Mainframe OS,subClassOf
+180,Process Management,O.S,subClassOf
+181,Intrusion Detection,Security,subClassOf
+182,Cache-Consistency Problem,Cache Coherency and Consistency,subClassOf
+183,Historical Perspective,Case Studies,subClassOf
+184,Hash Table,Directory Implementation,subClassOf
+185,Linux-Interprocess Communication,Linux System,subClassOf
+186,Throughput,CPU Scheduling Criteria,subClassOf
+187,clocks and timers,Application I/O Interface,subClassOf
+188,Multilevel Index,Indexed Allocation,subClassOf
+189,Privelaged Instructions,Hardware Protection,subClassOf
+190,Fragmentation,Contiguous Memory Allocation,subClassOf
+191,Peer to Peer Systems,Distributed Systems Structure Overview,subClassOf
+192,Peer to Peer Systems,Networking,subClassOf
+193,Block and Character Devices,Application I/O Interface,subClassOf
+194,Data Link Layer,Distributed Systems-Communication Protocols,subClassOf
+195,Disk Formatting,Disk Management,subClassOf
+196,Efficient Disk Use,File Systems-Efficiency and Performance,subClassOf
+197,Tapes,Tertiary Storage Devices,subClassOf
+198,Basic File System,File System Structure,subClassOf
+199,Process Control System Calls,System Calls,subClassOf
+200,Process Control System Calls,Process Concept,subClassOf
+201,Exit Section,Critical Section Problem,subClassOf
+202,Protection System,System Components,subClassOf
+203,Protection System,O.S Services,subClassOf
+204,Process Synchronization-Overview,Process Synchronization,subClassOf
+205,Soft Real Time O.S/System,Real time O.S/Systems,subClassOf
+206,Server,Distributed Systems-Example:Networking,subClassOf
+207,Server,Distributed File Systems-Overview,subClassOf
+208,Mutual Exclusion with Test And Set,Synchronization Hardware,subClassOf
+209,Synchronization,Interprocess Communication,subClassOf
+210,I/O Systems,I/O Systems,subClassOf
+211,CPU Bursts,CPU-I/O Burst Cycle,subClassOf
+212,Device Queue,Scheduling Queues,subClassOf
+213,I/O Port,I/O Structure,subClassOf
+214,Hardware Objects,Domain of Protection,subClassOf
+215,Virtual Memory,Segmentation with Paging,subClassOf
+216,Virtual Memory,Paging,subClassOf
+217,Virtual Memory,Storage Management,subClassOf
+218,Virtual Memory,Segmentation,subClassOf
+219,Interactive O.S/Systems,Mainframe OS,subClassOf
+220,Page Offset,Paging Method,subClassOf
+221,Segmentation and Fragmentation,Segmentation,subClassOf
+222,Distributed File Systems-Example:Andrew File System,Distributed File Systems,subClassOf
+223,Exclusive Locks,Locking Protocol,subClassOf
+224,Swap-Space Management,Swapping,subClassOf
+225,Swap-Space Management,Mass-Storage Structure,subClassOf
+226,Child Process,Process Creation,subClassOf
+227,Mutual Exclusion,Critical Section Problem,subClassOf
+228,Mutual Exclusion,Distributed Coordination,subClassOf
+229,Cryptography,Security,subClassOf
+230,Distributed Systems-Communication Protocols,Distributed Systems Structure,subClassOf
+231,Multiple-Processor Scheduling,CPU Scheduling,subClassOf
+232,Distributed Systems-Robustness,Distributed Systems Structure,subClassOf
+233,File Write,File Operations,subClassOf
+234,Distributed File Systems-Overview,Distributed File Systems,subClassOf
+235,File Attributes,File Concept,subClassOf
+236,Linux-Memory Management,Linux System,subClassOf
+237,Interrupt Request Line,Interrupts,subClassOf
+238,Ring Algorithm,Election Algorithms,subClassOf
+239,OS/360,Historical Perspective,subClassOf
+240,Belady's Anomaly,FIFO Page Replacement Algorithm,subClassOf
+241,Dispatch Latency,Real-Time Scheduling,subClassOf
+242,Win2000-File System,Windows 2000,subClassOf
+243,Failure of Network,Failure Handling in Two Phase Commit Protocol,subClassOf
+244,Non-volatile Storage,System Model,subClassOf
+245,Loader,Address Binding,subClassOf
+246,Backup and Restore,File System-Recovery,subClassOf
+247,Event Ordering,Distributed Coordination,subClassOf
+248,Text File,File Types,subClassOf
+249,Mutual Exclsion with Semaphores,Semaphores,subClassOf
+250,Gantt Chart,"First-Come First-Served Scheduling/FCFS Algorithm",subClassOf
+251,Master Key,Keys,subClassOf
+252,Global Ordering,Event Ordering,subClassOf
+253,Win2000-Environmental Subsystems,Windows 2000,subClassOf
+254,Spinlock,Semaphores,subClassOf
+255,Indirect Blocks,Indexed Allocation,subClassOf
+256,Blocking I/O,Application I/O Interface,subClassOf
+257,Grouping,Free Space Management,subClassOf
+258,Deadlock Detection Co-ordinator,Centralized Approach-Deadlock Detection,subClassOf
+259,Process Synchronization,Process Management,subClassOf
+260,Segment Table,Segmentation,subClassOf
+261,Protection-Revocation of Access Rights,Protection,subClassOf
+262,File Sharing,File-System Interface,subClassOf
+263,Serial Schedule,Concurrent Atomic Transactions,subClassOf
+264,Domain Switching,Domain Structure,subClassOf
+265,Process Creation,Operations on Processes,subClassOf
+266,Round-Robin Scheduling,CPU Scheduling Algorithms,subClassOf
+267,Benefits of Virtual Machine,Virtual Machines,subClassOf
+268,Passwords,User Authentication,subClassOf
+269,Delayed-Write Policy,Cache Update Policy,subClassOf
+270,Mean Time of Failure,RAID Structure,subClassOf
+271,Compaction,Fragmentation,subClassOf
+272,Shared Libraries,Dynamically Linked Libraries,subClassOf
+273,Operating System Structures,OS Overview,subClassOf
+274,File Allocation Table,Directory Implementation,subClassOf
+275,Client-Server Systems,Distributed Systems Structure Overview,subClassOf
+276,Client-Server Systems,Networking,subClassOf
+277,Client-Server Systems,File Sharing with Remote File Systems,subClassOf
+278,Failure Detection,Distributed Systems-Robustness,subClassOf
+279,Reconfiguration,Distributed Systems-Robustness,subClassOf
+280,I/O Scheduling,Kernel I/O Subsystem,subClassOf
+281,Types of Access,File System Protection,subClassOf
+282,Passed By Reference,RPC,subClassOf
+283,OS Jobs,Tertiary Storage Devices,subClassOf
+284,System Model,Atomic Transactions,subClassOf
+285,Election Algorithms,Distributed Coordination,subClassOf
+286,Transient OS code,Memory Protection,subClassOf
+287,Many-to-One Model,Multithreading Models,subClassOf
+288,Sustained Bandwidth/Bandwidth of a Drive,Performance Issues of Tertiary Storage,subClassOf
+289,Name Resolver,Distributed Systems-Communication,subClassOf
+290,Singlethreaded Process,Thread Overview,subClassOf
+291,Counting,Free Space Management,subClassOf
+292,Caching Vs Remote Services,Remote File Access,subClassOf
+293,Failure Handling in Two Phase Commit Protocol,Atomicity,subClassOf
+294,Tertiary Storage Devices,Mass-Storage Structure,subClassOf
+295,Combined Scheme,Indexed Allocation,subClassOf
+296,Spoofing,Securing Systems and Facilities,subClassOf
+297,File Create,File Operations,subClassOf
+298,CPU-I/O Burst Cycle,Basic Concepts-CPU Scheduling,subClassOf
+299,Operations on Processes,Processes,subClassOf
+300,Context Switch Time,Memory Management-Overview,subClassOf
+301,Disk Structure,Mass-Storage Structure,subClassOf
+302,Logical records,Direct Access/Relative Access,subClassOf
+303,Storage Management,O.S,subClassOf
+304,Storage Management,Storage Structure,subClassOf
+305,Goals of Protoection,Protection,subClassOf
+306,Interrupts,I/O Hardware,subClassOf
+307,LOOK Scheduling,Disk Scheduling,subClassOf
+308,Page Fault Frequency,Thrashing,subClassOf
+309,Volatile Storage,System Model,subClassOf
+310,Volatile Storage,Storage Structure,subClassOf
+311,Request Queue,Mutual Exclusion,subClassOf
+312,Hit Ratio,Frame Table,subClassOf
+313,Logical Block,File System Structure,subClassOf
+314,Logical Block,Disk Structure,subClassOf
+315,Handling Deadlocks,Deadlocks,subClassOf
+316,NFS,File System Implementation,subClassOf
+317,Secondary Storage,Secondary Storage Management,subClassOf
+318,Asymmetric Clustering,Clustered O.S/Systems,subClassOf
+319,Internal Fragmentation,Fragmentation,subClassOf
+320,Execution Time,Address Binding,subClassOf
+321,Mutual Exclusion with Swap,Synchronization Hardware,subClassOf
+322,Green Threads,Many-to-One Model,subClassOf
+323,Buffer-Overflow Attack,Worms,subClassOf
+324,Selective Revocation,Protection-Revocation of Access Rights,subClassOf
+325,Shrinking Phase,Locking Protocol,subClassOf
+326,Proportional Allocation Algorithm,Allocation of Frames Algorithms,subClassOf
+327,Context Switch,Process Scheduling,subClassOf
+328,Local Replacement Algorithm/Priority Replacement Algorithm,Thrashing,subClassOf
+329,Enhanced Second Chance Algorithm,LRU Approximation Page Replacement,subClassOf
+330,Personal Identification Number(PIN),One-Time Passwords,subClassOf
+331,File Pointer,File Operations,subClassOf
+332,Cascading Termination,Process Termination,subClassOf
+333,Scheduling Queues,Process Scheduling,subClassOf
+334,CPU Protection,Hardware Protection,subClassOf
+335,Degree of Multiprogramming,Schedulers,subClassOf
+336,Waiting Time,CPU Scheduling Criteria,subClassOf
+337,Process Coordination,Process Synchronization-Overview,subClassOf
+338,Storage Hierarchy,Computer System Structures,subClassOf
+339,Break Hold and Wait,Deadlock Prevention,subClassOf
+340,Second Chance Algorithm,LRU Approximation Page Replacement,subClassOf
+341,Grappling Hook/Bootstrap Vector Program,Worms,subClassOf
+342,File System Implementation,Storage Management,subClassOf
+343,Feature Migration Definition,OS Introduction,subClassOf
+344,Address Resolution Protocol,Distributed Systems-Example:Networking,subClassOf
+345,Virtual Memory-Overview,Virtual Memory,subClassOf
+346,Networking,Network Structure,subClassOf
+347,Networking,System Components,subClassOf
+348,Write-On-Close Policy,Cache Update Policy,subClassOf
+349,CPU Registers,Process Control Block,subClassOf
+350,Multiprogrammed Systems,Mainframe OS,subClassOf
+351,Demand Paging,Virtual Memory,subClassOf
+352,Inverted Page Table,Page Table-Structure,subClassOf
+353,Stateless File Server,Stateful Vs Stateless Servers,subClassOf
+354,Linux-Scheduling,Linux System,subClassOf
+355,Security,Protection and Security,subClassOf
+356,System Components,Operating System Structures,subClassOf
+357,Confinement Problem,Protection-Access Matrix,subClassOf
+358,Synchronization in Windows 2000,OS Synchronization,subClassOf
+359,Access-Matrix with Owner-Rights,Protection-Access Matrix,subClassOf
+360,Clustered O.S/Systems,OS Introduction,subClassOf
+361,Synchronous Signal,Signal Handling,subClassOf
+362,Conditions for Deadlock,Deadlock Characterization,subClassOf
+363,Frame Table,Paging Method,subClassOf
+364,Global Replacement,Allocation of Frames,subClassOf
+365,FCFS Disk Scheduling Algorithm,Disk Scheduling,subClassOf
+366,Domain of Protection,Protection,subClassOf
+367,Cache Update Policy,Remote File Access,subClassOf
+368,Dispatcher,Basic Concepts-CPU Scheduling,subClassOf
+369,CPU Scheduling Algorithms,CPU Scheduling,subClassOf
+370,Transfer Rate,Storage Structure,subClassOf
+371,Trojan Horse,Program Threats,subClassOf
+372,Processes,Deadlocks,subClassOf
+373,Processes,Threads,subClassOf
+374,Processes,Process Synchronization,subClassOf
+375,Processes,Process Management,subClassOf
+376,Protection Domain,Domain Structure,subClassOf
+377,On-disk Structures,File-System Implementation,subClassOf
+378,Physical level Security Measure,The Security Problem,subClassOf
+379,Raw I/O,Block and Character Devices,subClassOf
+380,Stack Implementation of LRU,Least Recently Used Page Replacement Algorithm,subClassOf
+381,Accounting,O.S Services,subClassOf
+382,Distributed Systems Structure Overview,Distributed Systems Structure,subClassOf
+383,Distributed Systems Structure Overview,OS Introduction,subClassOf
+384,Distributed Systems Structure Overview,Distributed Systems,subClassOf
+385,Administrative Complexity of Naming Structures,Naming and Transparency,subClassOf
+386,RAID Level 1,RAID Levels,subClassOf
+387,Communication in Client-Server Systems,Processes,subClassOf
+388,Additional Reference Bits Algorithm,LRU Approximation Page Replacement,subClassOf
+389,Bankers Algorithm,Deadlock Avoidance Algorithms,subClassOf
+390,RAID Level 6/P+Q Redundancy Scheme,RAID Levels,subClassOf
+391,RAID Level 2/Memory Style Error Correcting Code Organisation,RAID Levels,subClassOf
+392,Primary Storage,Secondary Storage Management,subClassOf
+393,Mainframe OS,OS Introduction,subClassOf
+394,Swap-Swap Use,Swap-Space Management,subClassOf
+395,Checkpoints,Atomic Transactions,subClassOf
+396,System Development Time,Virtual Machines,subClassOf
+397,Routers,Network Structure,subClassOf
+398,Fully Distributed Approach,Mutual Exclusion,subClassOf
+399,Shared Mode Lock,Locking Protocol,subClassOf
+400,Buffering,Kernel I/O Subsystem,subClassOf
+401,Buffering,Interprocess Communication,subClassOf
+402,Priority Scheduling Algorithm,CPU Scheduling Algorithms,subClassOf
+403,Seed,One-Time Passwords,subClassOf
+404,Asynchronous Thread Cancellation,Thread Cancellation,subClassOf
+405,Bounded Waiting-Mutual Exclusion with Test And Set,Synchronization Hardware,subClassOf
+406,Service,Distributed File Systems-Overview,subClassOf
+407,Use of Cryptography,Cryptography,subClassOf
+408,Deadlock Prevention,Deadlocks,subClassOf
+409,Threading Issues,Threads,subClassOf
+410,File Size,File Operations,subClassOf
+411,Multilevel Queue Scheduling,CPU Scheduling Algorithms,subClassOf
+412,Serializability Definition,Concurrent Atomic Transactions,subClassOf
+413,Performance of Demand Paging,Demand Paging,subClassOf
+414,Shortest-Job-First Scheduling Algorithm/SJF Algorithm,CPU Scheduling Algorithms,subClassOf
+415,Windows NT,O-S Examples,subClassOf
+416,CPU Utilization,CPU Scheduling Criteria,subClassOf
+417,File Systems,File System Structure,subClassOf
+418,Solutions to Critical Section Problem,Critical Section Problem,subClassOf
+419,Object file,File Types,subClassOf
+420,Cause of Thrashing,Thrashing,subClassOf
+421,Pure Demand Paging,Demand Paging,subClassOf
+422,Kernel Mailbox,Message Based O.S Example-Mach,subClassOf
+423,Non-Maskable Interrupt,Interrupts,subClassOf
+424,Bound Thread,Solaris 2 Threads,subClassOf
+425,Asymmetric Multiprocessing,Multiprocessor Systems/Parallel Systems/Tightly Coupled Systems,subClassOf
+426,Double Indirect Block Pointer,Indexed Allocation,subClassOf
+427,Uniform Memory Access,Multiple-Processor Scheduling,subClassOf
+428,Disk Management,Mass-Storage Structure,subClassOf
+429,Redundancy,RAID Structure,subClassOf
+430,Pager,Demand Paging,subClassOf
+431,Direct Access/Relative Access,File Access Methods,subClassOf
+432,Cache Coherency and Consistency,Storage Hierarchy,subClassOf
+433,Cache Coherency and Consistency,Remote File Access,subClassOf
+434,Process Name,Process Control System Calls,subClassOf
+435,Process Name,Process Concept,subClassOf
+436,Network Virtual Memory,Cache Coherency and Consistency,subClassOf
+437,User Threads,Thread Overview,subClassOf
+438,Contiguous Memory Allocation,Memory Management,subClassOf
+439,Connectionless Sockets/UDP Sockets,Sockets,subClassOf
+440,Device Management System Calls,System Calls,subClassOf
+441,Token Passing,Distributed Systems-Communication,subClassOf
+442,Programmable Interval Timer,Application I/O Interface,subClassOf
+443,General Graph Directory,Directory Structure,subClassOf
+444,Fork System Call,Threading Issues,subClassOf
+445,Modularity Based Example-Windows 200,Interprocess Communication,subClassOf
+446,Producer Process,Cooperating Processes,subClassOf
+447,Hard Real Time System,Real-Time Scheduling,subClassOf
+448,Process Scheduling Models,CPU Scheduling,subClassOf
+449,Bully Algorithm,Election Algorithms,subClassOf
+450,Page Number,Paging Method,subClassOf
+451,Process Migration,Distributed Operating System,subClassOf
+452,Capability-Based Systems,Protection,subClassOf
+453,Computer System Structures,OS Overview,subClassOf
+454,Computer System Structures,Storage Management,subClassOf
+455,Computer System Structures,I/O Systems,subClassOf
+456,DEC TOPS-20,Process Scheduling Models,subClassOf
+457,Break No Preemption,Deadlock Prevention,subClassOf
+458,Process Concept,Processes,subClassOf
+459,Process Concept,Virtual Memory,subClassOf
+460,Physical Layer,Distributed Systems-Communication Protocols,subClassOf
+461,File Operations in AFS,Distributed File Systems-Example:Andrew File System,subClassOf
+462,Deadlock Characterization,Deadlocks,subClassOf
+463,Command Interpretor System,System Components,subClassOf
+464,Protection-Implementation of Access Matrix,Protection,subClassOf
+465,Minimum Number of Frames,Allocation of Frames,subClassOf
+466,File Append,File Operations,subClassOf
+467,Reaching Agreement,Distributed Coordination,subClassOf
+468,Mount Protocol,NFS,subClassOf
+469,Blocking Send-Receive,Synchronization,subClassOf
+470,Non-Serial Schedule,Concurrent Atomic Transactions,subClassOf
+471,Access Matrix with Copy-Rights,Protection-Access Matrix,subClassOf
+472,Preemptive Scheduling,Short-term Scheduler/CPU Scheduler,subClassOf
+473,Spawn Mechanism,Worms,subClassOf
+474,Transport Layer,Distributed Systems-Communication Protocols,subClassOf
+475,Routing Table,Distributed Systems-Communication,subClassOf
+476,Nonreplicated Scheme,Locking Protocol,subClassOf
+477,Thread Pools,Threading Issues,subClassOf
+478,Client Stub,RPC,subClassOf
+479,Contiguous Allocation,Directory Implementation,subClassOf
+480,Symmetric Clustering,Clustered O.S/Systems,subClassOf
+481,Deadlocks-System Model,Deadlocks,subClassOf
+482,Protection-Access Matrix,Protection,subClassOf
+483,Semaphore Usage,Semaphores,subClassOf
+484,File Sharing with Remote File Systems,File Sharing,subClassOf
+485,Log-Based Recovery,Atomic Transactions,subClassOf
+486,Non-Preemptive SJF,Shortest-Job-First Scheduling Algorithm/SJF Algorithm,subClassOf
+487,Pthread API,Pthreads,subClassOf
+488,Other Systems,Historical Perspective,subClassOf
+489,Hard Real Time O.S/System,Real time O.S/Systems,subClassOf
+490,Java Threads,Threads,subClassOf
+491,Path-Name Translation,NFS,subClassOf
+492,Network O.S,Distributed Systems Structure Overview,subClassOf
+493,Network O.S,Networking,subClassOf
+494,Network O.S,Distributed O.S-Types,subClassOf
+495,Interrupt Handler,Interrupts,subClassOf
+496,Communication Processors,Network Structure,subClassOf
+497,Program Counter,Process Control Block,subClassOf
+498,Segmentation Protection,Segmentation,subClassOf
+499,Distributed Systems-Topology,Distributed Systems Structure,subClassOf
+500,Response Time,CPU Scheduling Criteria,subClassOf
+501,System Threats,Security,subClassOf
+502,Win2000-Programmer Interface,Windows 2000,subClassOf
+503,Cache Consistency-Server-initiated Approach,Cache Coherency and Consistency,subClassOf
+504,Use Resource,Deadlocks-System Model,subClassOf
+505,Presentation Layer,Distributed Systems-Communication Protocols,subClassOf
+506,Real-Time Scheduling,CPU Scheduling,subClassOf
+507,Unreliable Communications,Reaching Agreement,subClassOf
+508,Worst Fit Strategy,Memory Allocation,subClassOf
+509,An Example:Hydra,Capability-Based Systems,subClassOf
+510,Small Area Network,Distributed Systems Structure Overview,subClassOf
+511,Small Area Network,Networking,subClassOf
+512,Java,Virtual Machines,subClassOf
+513,Java,Java Threads,subClassOf
+514,Unbounded Capacity,Buffering,subClassOf
+515,Interprocess Communication,Processes,subClassOf
+516,Break Circular Wait,Deadlock Prevention,subClassOf
+517,Sector Slipping,Bad Blocks,subClassOf
+518,Release Resource,Deadlocks-System Model,subClassOf
+519,Embedded Computing,Computing Environments,subClassOf
+520,Partitions and Mounting,File-System Implementation,subClassOf
+521,Logical Formatting,Disk Formatting,subClassOf
+522,Majority Protocol,Locking Protocol,subClassOf
+523,Most Frequently Used Page Replacement Algorithm,Counting Based Page Replacement Algorithm,subClassOf
+524,Interrupt priority Levels,Interrupts,subClassOf
+525,Sector Sparing/Forwarding,Bad Blocks,subClassOf
+526,Location Independence,Naming Structures,subClassOf
+527,Turnstile,OS Synchronization,subClassOf
+528,Job Scheduling,Mainframe OS,subClassOf
+529,Counter Implementation of LRU,Least Recently Used Page Replacement Algorithm,subClassOf
+530,Demilitarized Zone,Securing Systems and Facilities,subClassOf
+531,Centralized Approach-Deadlock Detection,Distributed File Systems-Deadlock Handling,subClassOf
+532,Static Linking,Dynamically Linked Libraries,subClassOf
+533,Resource Allocation,O.S Services,subClassOf
+534,Domain Structure,Domain of Protection,subClassOf
+535,Resource Allocation Graph Algorithm,Deadlock Avoidance Algorithms,subClassOf
+536,Win2000-Networking,Windows 2000,subClassOf
+537,Remote Operations In NFS,NFS,subClassOf
+538,Linker,Address Binding,subClassOf
+539,Entry Section,Critical Section Problem,subClassOf
+540,Memory Management,Free Space Management,subClassOf
+541,Memory Management,Storage Management,subClassOf
+542,File Name,File Attributes,subClassOf
+543,One-to-One Model,Multithreading Models,subClassOf
+544,Notify Mailbox,Message Based O.S Example-Mach,subClassOf
+545,Security-An Example-Windows NT,Security,subClassOf
+546,Bad Blocks,Disk Management,subClassOf
+547,Virus,System Threats,subClassOf
+548,Status Register,I/O Registers,subClassOf
+549,Dynamic Loading,Memory Management-Overview,subClassOf
+550,Biased Protocol,Locking Protocol,subClassOf
+551,Java Virtual Machine,Java,subClassOf
+552,Locking Protocol,Concurrent Atomic Transactions,subClassOf
+553,Locking Protocol,Concurrency Control,subClassOf
+554,Copy on Write,Process Creation with Virtual Memory,subClassOf
+555,Binary Semaphores,Semaphores,subClassOf
+556,Location Independent File Identifiers,Naming and Transparency,subClassOf
+557,Linux-Input and Output,Linux System,subClassOf
+558,Auditing and Logging,Intrusion Detection,subClassOf
+559,File Management Functions,File Management,subClassOf
+560,Swap-Space Management-Example,Swap-Space Management,subClassOf
+561,Lightweight Process,Thread Overview,subClassOf
+562,Win XP-Environmental Subsystems,Windows XP,subClassOf
+563,Naming Schemes,Naming and Transparency,subClassOf
+564,CPU Bound Process,Schedulers,subClassOf
+565,Hierarchial Storage Management,OS Jobs,subClassOf
+566,Atlas,Historical Perspective,subClassOf
+567,Process Synchronization Definition,Process Synchronization-Overview,subClassOf
+568,Critical Section Problem,Process Synchronization,subClassOf
+569,Collision Detection,Distributed Systems-Communication,subClassOf
+570,Reliability,Distributed Systems Structure Overview,subClassOf
+571,Program Threats,Security,subClassOf
+572,Naming Structures,Naming and Transparency,subClassOf
+573,I/O Status Information,Process Control Block,subClassOf
+574,Preemptive Priority Scheduling,Priority Scheduling Algorithm,subClassOf
+575,XDS-940,Historical Perspective,subClassOf
+576,Shared Locks,Locking Protocol,subClassOf
+577,Session Layer,Distributed Systems-Communication Protocols,subClassOf
+578,Maskable Interrupt,Interrupts,subClassOf
+579,Directory Implementation,File System Implementation,subClassOf
+580,Deadlock Avoidance Algorithms,Handling Deadlocks,subClassOf
+581,Connection Strategies,Distributed Systems-Communication,subClassOf
+582,Transaction Name,Log-Based Recovery,subClassOf
+583,Computer Speedup,Cooperating Processes,subClassOf
+584,Network level Security Measure,The Security Problem,subClassOf
+585,Break Mutual Exclusion,Deadlock Prevention,subClassOf
+586,Progress,Critical Section Problem,subClassOf
+587,Data Migration,Distributed Operating System,subClassOf
+588,Computing Environments,OS Introduction,subClassOf
+589,Hierarchial Paging/Forward Mapped Page Table,Page Table-Structure,subClassOf
+590,Priority Inheritance Protocol,Real-Time Scheduling,subClassOf
+591,Application I/O Interface,I/O Systems,subClassOf
+592,Boot Block,Disk Management,subClassOf
+593,NFS Protocol,NFS,subClassOf
+594,New State,Process State,subClassOf
+595,Process Management,System Components,subClassOf
+596,Process Management,CPU Scheduling,subClassOf
+597,Bounded Capacity,Buffering,subClassOf
+598,File Owner,Access Control List,subClassOf
+599,Thread Specific Data,Threading Issues,subClassOf
+600,Memory Management-Overview,Memory Management,subClassOf
+601,Readers-Writers Problem,Classic Problems of Synchronization,subClassOf
+602,Analytic Evaluation,Deterministic Modeling,subClassOf
+603,Physical Address,Physical Address Space,subClassOf
+604,Aging,Priority Scheduling Algorithm,subClassOf
+605,Interrupt Controller Hardware,Interrupts,subClassOf
+606,Software Interrupt/Trap,Interrupts,subClassOf
+607,Asynchronous Writes,File Systems-Efficiency and Performance,subClassOf
+608,Prepaging,Virtual Memory Other Considerations,subClassOf
+609,I/O Structure,Computer System Structures,subClassOf
+610,Stack and Buffer Overflow,Program Threats,subClassOf
+611,Linux Threads,Threads,subClassOf
+612,Protection and Security,O.S,subClassOf
+613,Deadlock Prevention,Distributed File Systems-Deadlock Handling,subClassOf
+614,Deadlock Prevention,Handling Deadlocks,subClassOf
+615,Process Control Block,Process Concept,subClassOf
+616,Stateful File Service,Stateful Vs Stateless Servers,subClassOf
+617,Linux-Network Structure,Linux System,subClassOf
+618,Indirection,Protection-Revocation of Access Rights,subClassOf
+619,Data Structures for Bankers Algortihm,Bankers Algorithm,subClassOf
+620,Kernel Threads,Thread Overview,subClassOf
+621,Resource Preemption,Recovery from Deadlock,subClassOf
+622,Consumer Process,Cooperating Processes,subClassOf
+623,System Programs,Operating System Structures,subClassOf
+624,File-System Interface,Storage Management,subClassOf
+625,Low Level Formatting/Physical Formatting,Disk Formatting,subClassOf
+626,Virtual Memory Other Considerations,Virtual Memory,subClassOf
+627,I/O and System Performance,I/O Systems,subClassOf
+628,Bounded Buffer problem,Classic Problems of Synchronization,subClassOf
+629,Stateful Vs Stateless Servers,Distributed File Systems,subClassOf
+630,I/O Registers,I/O Systems Overview,subClassOf
+631,Swapping Constraints,Swapping,subClassOf
+632,Recovery from Failure,Distributed Systems-Robustness,subClassOf
+633,Swap-Space Location,Swap-Space Management,subClassOf
+634,Process Priority,Priority Scheduling Algorithm,subClassOf
+635,Benefits of Multithreading,Thread Overview,subClassOf
+636,Two-Phase Commit Protocol,Atomicity,subClassOf
+637,RPC,Communication in Client-Server Systems,subClassOf
+638,Distributed Operating System,Distributed O.S-Types,subClassOf
+639,File-System Mounting,File-System Interface,subClassOf
+640,Frames,Paging Method,subClassOf
+641,Linux-Process Management,Linux System,subClassOf
+642,Abort Processes,Recovery from Deadlock,subClassOf
+643,Capability list for Domains,Protection-Implementation of Access Matrix,subClassOf
+644,Example-Linux,Process Scheduling Models,subClassOf
+645,Page Fault Rate,Demand Paging,subClassOf
+646,Stable-Storage Implementation,Mass-Storage Structure,subClassOf
+647,Firewall,Securing Systems and Facilities,subClassOf
+648,Unbound Thread,Solaris 2 Threads,subClassOf
+649,Interrupt Driven I/O,I/O Structure,subClassOf
+650,Streams,I/O Systems,subClassOf
+651,O-S Examples,Virtual Memory,subClassOf
+652,Remote Method Invocation Stub,Communication in Client-Server Systems,subClassOf
+653,Bytecodes,Java,subClassOf
+654,Universe,Access Control List,subClassOf
+655,Raw Disk,File-System Implementation,subClassOf
+656,File Control Block,File System Structure,subClassOf
+657,Fully Distributed Approach-Deadlock Detection,Distributed File Systems-Deadlock Handling,subClassOf
+658,Resource Sharing,Distributed Systems Structure Overview,subClassOf
+659,Detection Algorithm Usage,Deadlock Detection,subClassOf
+660,Data Encryption Standard,Encryption,subClassOf
+661,Device Drivers,I/O Systems Overview,subClassOf
+662,Storage Structure,Computer System Structures,subClassOf
+663,Information Maintainence System Calls,System Calls,subClassOf
+664,Name Server,Distributed Systems-Communication,subClassOf
+665,Translation Look Aside Buffer,Frame Table,subClassOf
+666,Memory Address Register,Memory Management-Overview,subClassOf
+667,Network Attached Storage,Disk Attachment,subClassOf
+668,Mach,Historical Perspective,subClassOf
+669,Levels of File System,File System Structure,subClassOf
+670,Layered Approach,System Structure,subClassOf
+671,Happened-Before Relation,Event Ordering,subClassOf
+672,Signature Based Detection,Intrusion Detection,subClassOf
+673,Naming and Transparency,Distributed File Systems,subClassOf
+674,Speed,Performance Issues of Tertiary Storage,subClassOf
+675,Unified Virtual Memory,File Systems-Efficiency and Performance,subClassOf
+676,Communication System Calls,System Calls,subClassOf
+677,Linux System,Case Studies,subClassOf
+678,Authentication,Cryptography,subClassOf
+679,Distributed Systems Structure,Distributed Systems,subClassOf
+680,Reply Message,Mutual Exclusion,subClassOf
+681,Preemptive Scheme,Short-term Scheduler/CPU Scheduler,subClassOf
+682,Network Layer,Distributed Systems-Communication Protocols,subClassOf
+683,An Example:SSL,Cryptography,subClassOf
+684,Distributed Coordination,Process Synchronization,subClassOf
+685,Distributed Coordination,Distributed Systems,subClassOf
+686,Resource Allocation Graph,Deadlock Characterization,subClassOf
+687,Memory Management Unit,Memory Management-Overview,subClassOf
+688,Soft Real Time System,Real-Time Scheduling,subClassOf
+689,Access Rights,Domain Structure,subClassOf
+690,Robotic Jukebox,Hierarchial Storage Management,subClassOf
+691,Load Sharing,Distributed Systems Structure Overview,subClassOf
+692,Web Based Computing,Computing Environments,subClassOf
+693,Heavyweight Process,Thread Overview,subClassOf
+694,Long-term Scheduler/Job Scheduler,Schedulers,subClassOf
+695,OS Definition,OS Introduction,subClassOf
+696,Memory Mapping,Process Creation with Virtual Memory,subClassOf
+697,Queuing-Network Analysis,Queuing Model,subClassOf
+698,Dynamically Linked Libraries,Memory Management-Overview,subClassOf
+699,Random Access Time,Storage Structure,subClassOf
+700,Zero Capacity,Buffering,subClassOf
+701,RAID Level 4/Block-interleaved Parity Organization,RAID Levels,subClassOf
+702,Boot Control Block,File-System Implementation,subClassOf
+703,Double Caching,File Systems-Efficiency and Performance,subClassOf
+704,Network Socket Interface,Network Devices,subClassOf
+705,Multiple Partition Method,Memory Allocation,subClassOf
+706,Consistency Checking,File System-Recovery,subClassOf
+707,File Replication,Distributed File Systems,subClassOf
+708,Bit-Level Striping,RAID Structure,subClassOf
+709,Paired Passwords,User Authentication,subClassOf
+710,MULTICS,Historical Perspective,subClassOf
+711,Non-Preemptive Scheme,Short-term Scheduler/CPU Scheduler,subClassOf
+712,Compiler-Based Enforcement,Language Based Protection,subClassOf
+713,Bit Vector/Bit Map,Free Space Management,subClassOf
+714,Queuing Model,CPU Scheduling Algorithm Evaluation,subClassOf
+715,An Example-Cambridge CAP System,Capability-Based Systems,subClassOf
+716,Message Passing Model,Control Statements,subClassOf
+717,Message Passing Model,Interprocess Communication,subClassOf
+718,Kernel I/O Structure,Application I/O Interface,subClassOf
+719,Win XP-File System,Windows XP,subClassOf
+720,Real Time Processing,Virtual Memory Other Considerations,subClassOf
+721,Direct Memory Access,I/O Hardware,subClassOf
+722,Win XP-Design Principles,Windows XP,subClassOf
+723,An Example:Multics,Domain of Protection,subClassOf
+724,Signal Semaphore Definition,Semaphores,subClassOf
+725,Device Directory/Volume table of Contents,Directory Structure,subClassOf
+726,Access Control,File System Protection,subClassOf
+727,Time Quantum/Time Slice,Round-Robin Scheduling,subClassOf
+728,Classic Problems of Synchronization,Process Synchronization,subClassOf
+729,Sockets,Communication in Client-Server Systems,subClassOf
+730,Virtual File Systems,File-System Implementation,subClassOf
+731,Information Sharing,Cooperating Processes,subClassOf
+732,Head Crash,Storage Structure,subClassOf
+733,Timestamp,Event Ordering,subClassOf
+734,multimedia file,File Types,subClassOf
+735,Preemption without Starvation,Resource Preemption,subClassOf
+736,Distributed O.S-Types,Distributed Systems Structure Overview,subClassOf
+737,Running State,Process State,subClassOf
+738,Responsiveness,Benefits of Multithreading,subClassOf
+739,Distributed Systems-Example:Networking,Distributed Systems Structure,subClassOf
+740,Multilevel Feedback Queue Scheduling,CPU Scheduling Algorithms,subClassOf
+741,Mass-Storage Structure,I/O Systems,subClassOf
+742,Page Base Address,Memory Management-Overview,subClassOf
+743,Repositioning within File,File Operations,subClassOf
+744,Semaphores,Process Synchronization,subClassOf
+745,Secondary Storage Management,System Components,subClassOf
+746,File Access Methods,File-System Interface,subClassOf
+747,Temporary Revocation,Protection-Revocation of Access Rights,subClassOf
+748,Physical Address Space,Memory Management-Overview,subClassOf
+749,Timestamp Ordering Scheme,Concurrency Control,subClassOf
+750,Win XP-Networking,Windows XP,subClassOf
+751,Cooperating Processes,Processes,subClassOf
+752,Win XP-Programmer Interface,Windows XP,subClassOf
+753,System Calls,Operating System Structures,subClassOf
+754,Segmentation Hardware,Segmentation,subClassOf
+755,Fixed Routing,Distributed Systems-Communication,subClassOf
+756,File System Manipulation,O.S Services,subClassOf
+757,Kernel Data Structures,Kernel I/O Subsystem,subClassOf
+758,Tripwire File Systems,Intrusion Detection,subClassOf
+759,RAID Levels,RAID Structure,subClassOf
+760,Distributed Systems-Network Types,Distributed Systems Structure,subClassOf
+761,Process Creation with Virtual Memory,Virtual Memory,subClassOf
+762,Security Domains,Securing Systems and Facilities,subClassOf
+763,Short-term Scheduler/CPU Scheduler,Basic Concepts-CPU Scheduling,subClassOf
+764,Short-term Scheduler/CPU Scheduler,Schedulers,subClassOf
+765,print file,File Types,subClassOf
+766,Kernel I/O Subsystem,I/O Systems,subClassOf
+767,Page Buffering Algorithm,Page Replacement,subClassOf
+768,Linux-File Systems,Linux System,subClassOf
+769,Unified Buffer Cache,File Systems-Efficiency and Performance,subClassOf
+770,Private Key,Authentication,subClassOf
+771,Write-Through Policy,Cache Update Policy,subClassOf
+772,Cluster,Distributed Systems-Design Issues,subClassOf
+773,Win2000-System Components,Windows 2000,subClassOf
+774,Hardware Protection,Computer System Structures,subClassOf
+775,Basic Concepts-CPU Scheduling,CPU Scheduling,subClassOf
+776,Lock-Key Mechanism,Protection-Implementation of Access Matrix,subClassOf
+777,Many-to-Many Model,Multithreading Models,subClassOf
+778,Thrashing,Virtual Memory,subClassOf
+779,File Systems-Efficiency and Performance,File System Implementation,subClassOf
+780,Unix Semantics,File Sharing,subClassOf
+781,Synchronization Hardware,Process Synchronization,subClassOf
+782,Relative Block Number Definition,Direct Access/Relative Access,subClassOf
+783,Removable Disks,Tertiary Storage Devices,subClassOf
+784,Case Studies,O.S,subClassOf
+785,Anomaly Detection,Intrusion Detection,subClassOf
+786,"First-Come First-Served Scheduling/FCFS Algorithm",CPU Scheduling Algorithms,subClassOf
+787,I/O Hardware,I/O Systems,subClassOf
+788,Time Sharing O.S/Systems,Mainframe OS,subClassOf
+789,File System Structure,File System Implementation,subClassOf
+790,Compile Time,Address Binding,subClassOf
+791,Steps in DMA Transfer,Direct Memory Access,subClassOf
+792,General Revocation,Protection-Revocation of Access Rights,subClassOf
+793,Linked Scheme,Indexed Allocation,subClassOf
+794,Distributed System,I/O Structure,subClassOf
+795,Win2000-Design Principles,Windows 2000,subClassOf
+796,Unique Timestamp Generation,Concurrency Control,subClassOf
+797,Centralized Approach,Mutual Exclusion,subClassOf
+798,FIFO Page Replacement Algorithm,Page Replacement,subClassOf
+799,File Organization Module,File System Structure,subClassOf
+800,Ethernet Packet,Distributed Systems-Example:Networking,subClassOf
+801,Request Resource,Deadlocks-System Model,subClassOf
+802,Comitted State,Atomic Transactions,subClassOf
+803,Main Memory,Storage Structure,subClassOf
+804,Location Transparency,Naming Structures,subClassOf
+805,Global Table,Protection-Implementation of Access Matrix,subClassOf
+806,SCAN Disk Scheduling Algorithm/Elevator Algorithm,Disk Scheduling,subClassOf
+807,Functions with pocess management,Process Management,subClassOf
+808,Functions with pocess management,Storage Structure,subClassOf
+809,CTSS,Historical Perspective,subClassOf
+810,Win XP-System Components,Windows XP,subClassOf
+811,Convoy Effect,"First-Come First-Served Scheduling/FCFS Algorithm",subClassOf
+812,Memory Mapped I/O,Direct Memory Access,subClassOf
+813,Memory Allocation,Contiguous Memory Allocation,subClassOf
+814,Consistency Semantics,File Sharing,subClassOf
+815,Overlays,Memory Management-Overview,subClassOf
+816,Faulty Process,Reaching Agreement,subClassOf
+817,Real time O.S/Systems,OS Introduction,subClassOf
+818,File Structure,File Concept,subClassOf
+819,Storage area network,Disk Attachment,subClassOf
+820,Modularity,Cooperating Processes,subClassOf
+821,Modularity,Layered Approach,subClassOf
+822,C-LOOK Scheduling,Disk Scheduling,subClassOf
+823,Error Handling,Kernel I/O Subsystem,subClassOf
+824,Access Matrix with Control-Rights,Protection-Access Matrix,subClassOf
+825,File Delete,File Operations,subClassOf
+826,Programmed I/O,I/O Structure,subClassOf
+827,Process Termination,Operations on Processes,subClassOf
+828,Partial Revocation,Protection-Revocation of Access Rights,subClassOf
+829,Implementaion of Virtual Machine,Virtual Machines,subClassOf
+830,Block-Level Striping,RAID Structure,subClassOf
+831,Page Table-Structure,Paging,subClassOf
+832,Allocation of Frames,Virtual Memory,subClassOf
+833,Language Based Protection,Protection,subClassOf
+834,Issues in Signal Delivery,Signal Handling,subClassOf
+835,Simple Structure/MS-DOS layer Structure,System Structure,subClassOf
+836,Valid/Invalid Bit,Paging,subClassOf
+837,File Types,File Attributes,subClassOf
+838,Distributed Systems-Communication,Distributed Systems Structure,subClassOf
+839,Sequential Access,File Access Methods,subClassOf
+840,Turnaround Time,CPU Scheduling Criteria,subClassOf
+841,Back Pointers,Protection-Revocation of Access Rights,subClassOf
+842,Direct Blocks,Indexed Allocation,subClassOf
+843,LPC,Modularity Based Example-Windows 200,subClassOf
+844,Failure of Co-ordinator,Failure Handling in Two Phase Commit Protocol,subClassOf
+845,Asynchronous Signal,Signal Handling,subClassOf
+846,Block-Device Interface,Block and Character Devices,subClassOf
+847,Network Devices,Application I/O Interface,subClassOf
+848,Linux-Security,Linux System,subClassOf
+849,Host Attached Storage Method of Disk Attachment,Disk Attachment,subClassOf
+850,Critical Region Construct Implementation,Critical Regions,subClassOf
+851,Cache Location Issues,Remote File Access,subClassOf
+852,Cooperating Sequential Processes,Process Synchronization-Overview,subClassOf
+853,Effective Access Time,Demand Paging,subClassOf
+854,Deadlock Detection Algorithm for single Instance of each Resource Type,Deadlock Detection,subClassOf
+855,Distributed Information Systems/Distributed Naming Services,File Sharing with Remote File Systems,subClassOf
+856,Advanced Encryption Standard,Encryption,subClassOf
+857,Relocation Register,Memory Management-Overview,subClassOf
+858,Packet Strategies,Distributed Systems-Communication,subClassOf
+859,Virtual Address Space,Virtual Memory-Overview,subClassOf
+860,Message Based O.S Example-Mach,Interprocess Communication,subClassOf
+861,Microkernels,System Structure,subClassOf
+862,Cancellation Points,Threading Issues,subClassOf
+863,Simulation,CPU Scheduling Algorithm Evaluation,subClassOf
+864,Distributed Lock Manager,Clustered O.S/Systems,subClassOf
+865,File Concept,File-System Interface,subClassOf
+866,Distributed File Systems-Deadlock Handling,Distributed Coordination,subClassOf
+867,Unbounded-Buffer Producer Consumer Problem,Cooperating Processes,subClassOf
+868,Critical Regions,Process Synchronization,subClassOf
+869,OS Synchronization,Process Synchronization,subClassOf
+870,OS Overview,O.S,subClassOf
+871,Data-in Register,I/O Registers,subClassOf
+872,Computer Security Classifications,Security,subClassOf
+873,Raising an Interrupt,Interrupts,subClassOf
+874,Password Vulnerabilities,User Authentication,subClassOf
+875,Deadlock Detection,Deadlocks,subClassOf
+876,Atomic Transactions,Process Synchronization,subClassOf
+877,CPU Scheduling and Multi-Programming,Process Control Block,subClassOf
+878,Client Interface,Distributed Systems-Example:Networking,subClassOf
+879,Securing Systems and Facilities,Security,subClassOf
+880,Remote File Access,Distributed File Systems,subClassOf
+881,Unsafe State,Deadlock Avoidance Algorithms,subClassOf
+882,System Generation,Operating System Structures,subClassOf
+883,Equal Allocation Algorithms,Allocation of Frames Algorithms,subClassOf
+884,Indirect Communication,Naming,subClassOf
+885,Token,Mutual Exclusion,subClassOf
+886,Shared Pages,Paging,subClassOf
+887,Lazy Swapper,Demand Paging,subClassOf
+888,Thread Cancellation,Threading Issues,subClassOf
+889,File Read,File Operations,subClassOf
+890,Rollback,Resource Preemption,subClassOf
+891,Immediate Revocation,Protection-Revocation of Access Rights,subClassOf
+892,Write-Ahead Logging,Log-Based Recovery,subClassOf
+893,System Structure,Operating System Structures,subClassOf
+894,Windows XP,Case Studies,subClassOf
+895,File Management,System Components,subClassOf
+896,Multiprocessor Systems/Parallel Systems/Tightly Coupled Systems,OS Introduction,subClassOf
+897,Deterministic Modeling,CPU Scheduling Algorithm Evaluation,subClassOf
+898,Test And Set Instruction,Synchronization Hardware,subClassOf
+899,Physical Memory,Mainframe OS,subClassOf
+900,Least Frequently Used Page Replacement Algorithm,Counting Based Page Replacement Algorithm,subClassOf
+901,Disk Attachment,Mass-Storage Structure,subClassOf
+902,Local Replacement,Allocation of Frames,subClassOf
+903,Failure Modes,File Sharing with Remote File Systems,subClassOf
+904,Fila Naming,OS Jobs,subClassOf
+905,Logical Clock,Event Ordering,subClassOf
+906,External Data Representation,RPC,subClassOf
+907,Linux-Kernel Modules,Linux System,subClassOf
+908,Stream Modules,Streams,subClassOf
+909,Exceptions,Interrupts,subClassOf
+910,Segmentation with Paging,Memory Management,subClassOf
+911,Desktop O.S/Systems,OS Introduction,subClassOf
+912,Flow Control,Streams,subClassOf
+913,Memory Management Activities,Main Memory Management,subClassOf
+914,Directory List,File Concept,subClassOf
+915,Immutable Shared Files,Immutable-Shared-Files Semantics,subClassOf
+916,Adaptive Mutex,OS Synchronization,subClassOf
+917,Shared Name Space,Distributed File Systems-Example:Andrew File System,subClassOf
+918,Concurrency Control,Distributed Coordination,subClassOf
+919,Threads,Process Management,subClassOf
+920,RAID Structure,Mass-Storage Structure,subClassOf
+921,Preemptive SJF,Shortest-Job-First Scheduling Algorithm/SJF Algorithm,subClassOf
+922,Traditional Computing,Computing Environments,subClassOf
+923,User Authentication,Security,subClassOf
+924,Global Descriptor Table,Segmentation with Paging,subClassOf
+925,Mount Table Structure,File-System Implementation,subClassOf
+926,Conflict Serializable,Concurrent Atomic Transactions,subClassOf
+927,Orphan Detection and Elimination,Stateful Vs Stateless Servers,subClassOf
+928,Connection Oriented Sockets/TCP Sockets,Sockets,subClassOf
+929,Wound-Wait Scheme,Deadlock Prevention,subClassOf
+930,Handheld O.S/Systems,OS Introduction,subClassOf
+931,Gateway,Distributed Systems-Communication,subClassOf
+932,Mailbox Set,Message Based O.S Example-Mach,subClassOf
+933,Concurrent Atomic Transactions,Atomic Transactions,subClassOf
+934,Free Space Management,File System Implementation,subClassOf
+935,Accounting Information,Process Control Block,subClassOf
+936,Group,Access Control List,subClassOf
+937,Virtual Machines,Operating System Structures,subClassOf
+938,LRU Approximation Page Replacement,Page Replacement,subClassOf
+939,Win XP-History,Windows XP,subClassOf
+940,Consistency Semantics in AFS,Distributed File Systems-Example:Andrew File System,subClassOf
+941,TLB Miss,Frame Table,subClassOf
+942,Design Goals of NFS,NFS,subClassOf
+943,Assignment Edge,Resource Allocation Graph,subClassOf
+944,Release Message,Mutual Exclusion,subClassOf
+945,Shortest-seek-time-first Disk Scheduling algorithm,Disk Scheduling,subClassOf
+946,Cache consistency-Client-initiated Approach,Cache Coherency and Consistency,subClassOf
+947,CPU Scheduling,Process Scheduling,subClassOf
+948,CPU Scheduling,Process Management,subClassOf
+949,Wait-Die Scheme,Deadlock Prevention,subClassOf
+950,Access Control List,Access Control,subClassOf
+951,Memory Management Information,Process Control Block,subClassOf
+952,File open count,File Operations,subClassOf
+953,Direct Virtual Memory Access,Direct Memory Access,subClassOf
+954,Distributed Systems-Design Issues,Distributed Systems Structure,subClassOf
+955,Request Edge,Resource Allocation Graph,subClassOf
+956,Failure of Participating Site,Failure Handling in Two Phase Commit Protocol,subClassOf
+957,Communciation Cost,Distributed Systems-Communication,subClassOf
+958,File System-Recovery,File System Implementation,subClassOf
+959,Directory Structure,File-System Interface,subClassOf
+960,Tertiary Storage Devices,Tertiary Storage Devices,subClassOf
+961,Bootstrap Program Definition,Computer System Operation,subClassOf
+962,Race Condition,Process Synchronization-Overview,subClassOf
+963,Asymmetric Multiprocessing,Multiprocessor Systems/Parallel Systems/Tightly Coupled Systems,subClassOf
+964,Segment Base,Segmentation,subClassOf
+965,Computer System Operation,Computer System Structures,subClassOf
+966,Bounded Waiting,Critical Section Problem,subClassOf
+967,Recovery from Deadlock,Deadlocks,subClassOf
+968,Ring Structure,Token,subClassOf
+969,Counting Semaphores,Semaphores,subClassOf
+970,Page Fault Trap,Demand Paging,subClassOf
+971,Naming,Interprocess Communication,subClassOf
+972,Stable Storage,System Model,subClassOf
+973,Linked Allocation,Directory Implementation,subClassOf
+974,Swap Instruction,Synchronization Hardware,subClassOf
+975,Direct Communication,Naming,subClassOf
+976,High Priority Process,Priority Scheduling Algorithm,subClassOf
+977,Deadlocks,Process Management,subClassOf
+978,Delayed Revocation,Protection-Revocation of Access Rights,subClassOf
+979,Client,Distributed File Systems-Overview,subClassOf
+980,Application Layer,Distributed Systems-Communication Protocols,subClassOf
+981,Segmentation Sharing,Segmentation,subClassOf
+982,File,File Management,subClassOf
+983,Homogenous System,Multiple-Processor Scheduling,subClassOf
+984,Counting Based Page Replacement Algorithm,Page Replacement,subClassOf
+985,Schedulers,Process Scheduling,subClassOf
+986,OS Introduction,OS Overview,subClassOf
+987,Polling,I/O Hardware,subClassOf
+988,Byzantine Generals Problem,Reaching Agreement,subClassOf
+989,An Example:Unix,Domain of Protection,subClassOf
+990,Win200-History,Windows 2000,subClassOf
+991,I/O Subsystem,I/O System Management,subClassOf
+992,Remainder section,Critical Section Problem,subClassOf
+993,ISO Network Message,Distributed Systems-Communication Protocols,subClassOf
+994,One-Time Passwords,User Authentication,subClassOf
+995,I/O System Management,System Components,subClassOf
+996,Pthreads,Threads,subClassOf
+997,Conflict Phase,Real-Time Scheduling,subClassOf
+998,TLB Reach,Virtual Memory Other Considerations,subClassOf
+999,NFS Architecture,NFS,subClassOf
+1000,Device Status Table,I/O Structure,subClassOf
+1001,Locks-Definition,Lock-Key Mechanism,subClassOf
+1002,Deadlock State,Deadlock Avoidance Algorithms,subClassOf
+1003,Page Replacement,Virtual Memory,subClassOf
+1004,Two-Level Directory,Directory Structure,subClassOf
+1005,Access list for Objects,Protection-Implementation of Access Matrix,subClassOf
+1006,Process Mix,Schedulers,subClassOf
+1007,Physical Block,File System Structure,subClassOf
+1008,RC4000,Historical Perspective,subClassOf
+1009,File-System Implementation,File System Implementation,subClassOf
+1010,Multithreaded,Thread Overview,subClassOf
+1011,Indexed Allocation,Directory Implementation,subClassOf
+1012,Privelaged Mode/System Mode,Hardware Protection,subClassOf
+1013,Magnetic Tape,Storage Structure,subClassOf
+1014,Monitor-Syntax,Monitors,subClassOf
+1015,Transaction Co-ordinator,Atomicity,subClassOf
+1016,System-Call Monitoring,Intrusion Detection,subClassOf
+1017,Network Structure,Computer System Structures,subClassOf
+1018,Multithreading Models,Threads,subClassOf
+1019,Local Descriptor Table,Segmentation with Paging,subClassOf
+1020,Synchronous I/O Interrupts,I/O Structure,subClassOf
+1021,False Cycles,Centralized Approach-Deadlock Detection,subClassOf
+1022,Overview of AFS,Distributed File Systems-Example:Andrew File System,subClassOf
+1023,Non-Blocking Send-Receive,Synchronization,subClassOf
+1024,Mount Point,File-System Mounting,subClassOf
+1025,RAID Level 3/Bit-interleaved Parity Organization,RAID Levels,subClassOf
+1026,Trap Definition,Computer System Operation,subClassOf
+1027,Modems,Network Structure,subClassOf
+1028,I/O Protection,Hardware Protection,subClassOf
+1029,File Sharing with Multiple Users,File Sharing,subClassOf
+1030,Critical Region Construct,Critical Regions,subClassOf
+1031,RAID Level 0,RAID Levels,subClassOf
+1032,Allocation of Frames Algorithms,Allocation of Frames,subClassOf
+1033,Transparency,Distributed Systems-Design Issues,subClassOf
+1034,Protection,Protection and Security,subClassOf
+1035,Contention,Distributed Systems-Communication,subClassOf
+1036,Certification Authority,Authentication,subClassOf
+1037,Source code file,File Types,subClassOf
+1038,Logical Address,Logical Address Space,subClassOf
+1039,Constant Linear Velocity,Disk Structure,subClassOf
