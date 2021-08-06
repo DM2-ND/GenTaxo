@@ -82,16 +82,6 @@ python ./Taxonomy_Completion_Module/train.py --config config_files/$DATASET/conf
 ```
 python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --taxon <INPUT_TAXON_LIST.txt> --save <OUTPUT_RESULT.tsv> --device 0
 ```
-
-## Data and Models
-- Pre-trained GenTaxo models can be found in: ??
-- Fine-tuned language models can be found in: ??
-- Datasets are under **/data** directory containing:
-  - [MeSH](https://www.nlm.nih.gov/mesh/meshhome.html): Hierarchically-organized vocabulary produced by the National Library of Medicine
-  - [Drone](http://www.dronetology.net/): Concepts an hierachical relations in UAV domain
-  - [MAG-CS]():
-  - [data_environment_eurovoc_en_0.2]():
-  - [data_scienec_wordnext_en_0.2]():
   
 ## Reference
 ```
