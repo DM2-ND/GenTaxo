@@ -10,3 +10,13 @@ A detailed dependencies list can be found in `requirements.txt` and can be insta
 ```
   pip install -r requirements.txt
 ```
+
+## Reference
+```
+@article{zeng2021enhancing,
+  title={Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations},
+  author={Zeng, Qingkai and Lin, Jinfeng and Yu, Wenhao and Cleland-Huang, Jane and Jiang, Meng},
+  booktitle={Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  year={2021}
+}
+```
