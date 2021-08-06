@@ -2,6 +2,7 @@
 **GenTaxo** (pronounced “gen-tech-so”) is a generation-based approach for taxonomy completion. It enhances taxonomy completion by identifying the positions in existing taxonomies that need new concepts and generating the concept names.
 
 This repo contain source code used for self-supervised taxonomy expansion method GenTaxo, published in KDD 2021. 
+
 [Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations](https://arxiv.org/pdf/2106.02974.pdf)
 
 ## Requirements and Installation
