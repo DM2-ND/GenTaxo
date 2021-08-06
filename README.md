@@ -96,4 +96,4 @@ python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --t
 GenTaxo use the [MIT License](LISCENSE). The license applies to the pre-trained models as well.
 
 ## Contact Us
-You can file bug reports on GitHub, or email the author: Qingkai Zeng <your email>.
+You can file bug reports on GitHub, or email the author: Qingkai Zeng <qzeng@nd.edu>.
