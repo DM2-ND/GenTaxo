@@ -1,17 +1,23 @@
 # GenTaxo
- The source code used for self-supervised taxonomy expansion method GenTaxo, published in KDD 2021.
- 
+**GenTaxo** (pronounced “gen-tech-so”) is a generation-based approach for taxonomy expansion. It enhances taxonomy completion by identifying the positions in existing taxonomies that need new concepts and generating the concept names. Instead of relying on the corpus for concept embeddings, GenTaxo learns the contextual embeddings from both graph-based and language-based relational information at the positions; and it leverages the corpus for pre-training a concept name generator. Experimental results demonstrate that GenTaxo improves the completeness of real-world taxonomies over existing methods.
+
+This repo contain source code used for self-supervised taxonomy expansion method GenTaxo, published in KDD 2021. 
 [Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations](https://arxiv.org/pdf/2106.02974.pdf)
 
-Authors: Qingkai Zeng, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang.
-
-## Requirements
+ ![framework](/assets/GenTaxo_framework.png)
+## Requirements and Installation
+GenTaxo currently runs on Linux，Mac and Windows with following requirements
+- PyTorch >= ??
+- Python  >= ??
+- DGL >= ??
+- An NVIDIA GPU and Cuda 11??
+  
 A detailed dependencies list can be found in `requirements.txt` and can be installed by:
 
 ```
   pip install -r requirements.txt
 ```
-
+## Quick Start
 ### Step 1.a: Organize your input taxonomy along with node features into the following 3 files
 
 **1. <TAXONOMY_NAME>.terms**, each line represents one concept in the taxonomy, including its ID and surface name
@@ -71,12 +77,22 @@ python generate_dataset_binary.py \
 python ./Taxonomy_Completion_Module/train.py --config config_files/$DATASET/config.json
 ```
 
-### Infer
+### Infer 
 
 ```
 python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --taxon <INPUT_TAXON_LIST.txt> --save <OUTPUT_RESULT.tsv> --device 0
 ```
 
+## Data and Models
+- Pre-trained GenTaxo models can be found in: ??
+- Fine-tuned language models can be found in: ??
+- Datasets are under **/data** directory containing:
+  - [MeSH](https://www.nlm.nih.gov/mesh/meshhome.html): Hierarchically-organized vocabulary produced by the National Library of Medicine
+  - [Drone](http://www.dronetology.net/): Concepts an hierachical relations in UAV domain
+  - [MAG-CS]():
+  - [data_environment_eurovoc_en_0.2]():
+  - [data_scienec_wordnext_en_0.2]():
+  
 ## Reference
 ```
 @article{zeng2021enhancing,
@@ -86,3 +102,9 @@ python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --t
   year={2021}
 }
 ```
+
+## License
+GenTaxo use the [MIT License](LISCENSE). The license applies to the pre-trained models as well.
+
+## Contact Us
+You can file bug reports on GitHub, or email the author: Qingkai Zeng <your email>.
