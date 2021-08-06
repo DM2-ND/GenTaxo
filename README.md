@@ -7,10 +7,9 @@ This repo contain source code used for self-supervised taxonomy expansion method
  ![framework](/assets/GenTaxo_framework.png)
 ## Requirements and Installation
 GenTaxo currently runs on Linux，Mac and Windows with following requirements
-- PyTorch >= ??
-- Python  >= ??
-- DGL >= ??
-- An NVIDIA GPU and Cuda 11??
+- PyTorch >= 1.2.0
+- Python  >= 3.6.0
+- DGL >= 0.4.0
   
 A detailed dependencies list can be found in `requirements.txt` and can be installed by:
 
