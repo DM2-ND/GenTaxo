@@ -68,13 +68,13 @@ python generate_dataset_binary.py \
 ### Running Taxonomy Completion Module
 
 ```
-python train.py --config config_files/$DATASET/config.json
+python ./Taxonomy_Completion_Module/train.py --config config_files/$DATASET/config.json
 ```
 
 ### Infer
 
 ```
-python infer.py --resume <MODEL_CHECKPOINT.pth> --taxon <INPUT_TAXON_LIST.txt> --save <OUTPUT_RESULT.tsv> --device 0
+python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --taxon <INPUT_TAXON_LIST.txt> --save <OUTPUT_RESULT.tsv> --device 0
 ```
 
 ## Reference
