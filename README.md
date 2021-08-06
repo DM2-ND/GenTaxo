@@ -1,10 +1,9 @@
 # GenTaxo
-**GenTaxo** (pronounced “gen-tech-so”) is a generation-based approach for taxonomy expansion. It enhances taxonomy completion by identifying the positions in existing taxonomies that need new concepts and generating the concept names. Instead of relying on the corpus for concept embeddings, GenTaxo learns the contextual embeddings from both graph-based and language-based relational information at the positions; and it leverages the corpus for pre-training a concept name generator. Experimental results demonstrate that GenTaxo improves the completeness of real-world taxonomies over existing methods.
+**GenTaxo** (pronounced “gen-tech-so”) is a generation-based approach for taxonomy completion. It enhances taxonomy completion by identifying the positions in existing taxonomies that need new concepts and generating the concept names.
 
 This repo contain source code used for self-supervised taxonomy expansion method GenTaxo, published in KDD 2021. 
 [Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations](https://arxiv.org/pdf/2106.02974.pdf)
 
- ![framework](/assets/GenTaxo_framework.png)
 ## Requirements and Installation
 GenTaxo currently runs on Linux，Mac and Windows with following requirements
 - PyTorch >= 1.2.0
