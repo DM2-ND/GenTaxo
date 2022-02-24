@@ -4,7 +4,7 @@
 PyTorch >= 1.2  
 tqdm   
 pycoco 
-dgl
+dgl = 0.6.3
 
 ## Usage
 ```
