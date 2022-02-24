@@ -76,6 +76,13 @@ python generate_dataset_binary.py \
 python ./Taxonomy_Completion_Module/train.py --config config_files/$DATASET/config.json
 ```
 
+
+### Running Concept Name Generation Module
+
+```
+./Concept_Name_Generation/sh run.sh
+```
+
 ### Infer 
 
 ```
