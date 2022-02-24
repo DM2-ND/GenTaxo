@@ -83,7 +83,14 @@ python ./Taxonomy_Completion_Module/train.py --config config_files/$DATASET/conf
 ./Concept_Name_Generation/sh run.sh
 ```
 
-### Infer 
+### Getting Generation Result
+
+```
+./Concept_Name_Generation/sh test.sh
+```
+
+
+### Getting Taxonomy Completion Result 
 
 ```
 python ./Taxonomy_Completion_Module/infer.py --resume <MODEL_CHECKPOINT.pth> --taxon <INPUT_TAXON_LIST.txt> --save <OUTPUT_RESULT.tsv> --device 0
