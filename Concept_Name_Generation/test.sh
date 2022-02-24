@@ -1,0 +1,1 @@
+env CUDA_VISIBLE_DEVICES=0 python -u train.py --save_model tmp_model.ptbest --test  --seq --lp 1.0 --beam_size 1

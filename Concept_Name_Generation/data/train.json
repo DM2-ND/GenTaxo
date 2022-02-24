@@ -1,0 +1,37 @@
+[
+	{
+	  "sibling": "abdominal wall , umbilicus , groin and inguinal canal are siblings of",
+	  "parent": "abdomen is a class of",
+	  "child": "peritoneum and retroperitoneal space are subclasses of",
+	  "entities": [
+		"abdominal cavity",
+		"abdomen",
+		"abdominal wall",
+		"umbilicus",
+		"groin",
+		"inguinal canal",
+		"peritoneum",
+		"retroperitoneal space"
+	  ],
+	  "types": "<concept> <parent> <sibling> <sibling> <sibling> <sibling> <task> <child> <child>",
+	  "relations": [
+		"abdomen -- PARENT -- abdominal wall",
+		"abdomen -- PARENT -- umbilicus",
+		"abdomen -- PARENT -- groin",
+		"abdomen -- PARENT -- inguinal canal",
+		"abdominal wall -- SIBLING -- umbilicus",
+		"abdominal wall -- SIBLING -- groin",
+		"abdominal wall -- SIBLING -- inguinal canal",
+		"umbilicus -- SIBLING -- groin",
+		"umbilicus -- SIBLING -- inguinal canal",
+		"groin -- SIBLING -- inguinal canal",
+		"peritoneum -- SIBLING -- retroperitoneal space",
+		"abdominal wall -- CHILD -- abdomen",
+		"umbilicus -- CHILD -- abdomen",
+		"groin -- CHILD -- abdomen",
+		"inguinal canal -- CHILD -- abdomen"
+	  ],
+	  "abstract": "abdominal cavity",
+	  "abstract_og": "abdominal cavity"
+	}
+]
